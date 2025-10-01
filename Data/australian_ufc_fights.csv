@@ -1,51 +1,55 @@
 RedFighter,BlueFighter,Date,Location,Country,Winner,TitleBout,WeightClass,WinnerNationality,Loser,LoserNationality
 Robert Whittaker,Khamzat Chimaev,2024-10-26,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Khamzat Chimaev,False,Middleweight,Other,Robert Whittaker,Australian
-Junior Tafa,Sean Sharaf,2024-10-12,"Las Vegas, Nevada, USA",USA,Junior Tafa,False,Heavyweight,Australian,Sean Sharaf,Other
-Dan Argueta,Cody Haddon,2024-10-12,"Las Vegas, Nevada, USA",USA,Cody Haddon,False,Bantamweight,Australian,Dan Argueta,Other
-Kaan Ofli,Mairon Santos,2024-08-24,"Las Vegas, Nevada, USA",USA,Mairon Santos,False,Featherweight,Other,Kaan Ofli,Australian
+Junior Tafa,Sean Sharaf,2024-10-12,"Las Vegas, Nevada, USA",Usa,Junior Tafa,False,Heavyweight,Australian,Sean Sharaf,Other
+Dan Argueta,Cody Haddon,2024-10-12,"Las Vegas, Nevada, USA",Usa,Cody Haddon,False,Bantamweight,Australian,Dan Argueta,Other
+Kaan Ofli,Mairon Santos,2024-08-24,"Las Vegas, Nevada, USA",Usa,Mairon Santos,False,Featherweight,Other,Kaan Ofli,Australian
 Kai Kara-France,Steve Erceg,2024-08-17,"Perth, Western Australia, Australia",Australia,Kai Kara-France,False,Flyweight,Other,Steve Erceg,Australian
 Tai Tuivasa,Jairzinho Rozenstruik,2024-08-17,"Perth, Western Australia, Australia",Australia,Jairzinho Rozenstruik,False,Heavyweight,Other,Tai Tuivasa,Australian
 Junior Tafa,Valter Walker,2024-08-17,"Perth, Western Australia, Australia",Australia,Valter Walker,False,Heavyweight,Other,Junior Tafa,Australian
+Casey O'Neill,Luana Santos,2024-08-17,"Perth, Western Australia, Australia",Australia,Casey O'Neill,False,Women's Flyweight,Australian,Luana Santos,Other
 Jack Jenkins,Herbert Burns,2024-08-17,"Perth, Western Australia, Australia",Australia,Jack Jenkins,False,Featherweight,Australian,Herbert Burns,Other
 Tom Nolan,Alex Reyes,2024-08-17,"Perth, Western Australia, Australia",Australia,Tom Nolan,False,Lightweight,Australian,Alex Reyes,Other
 Robert Whittaker,Ikram Aliskerov,2024-06-22,"Riyadh, Riyadh, Saudi Arabia",Saudi Arabia,Robert Whittaker,False,Middleweight,Australian,Ikram Aliskerov,Other
-Phil Rowe,Jake Matthews,2024-06-01,"Newark, New Jersey, USA",USA,Jake Matthews,False,Welterweight,Australian,Phil Rowe,Other
-Victor Martinez,Tom Nolan,2024-05-18,"Las Vegas, Nevada, USA",USA,Tom Nolan,False,Lightweight,Australian,Victor Martinez,Other
+Phil Rowe,Jake Matthews,2024-06-01,"Newark, New Jersey, USA",Usa,Jake Matthews,False,Welterweight,Australian,Phil Rowe,Other
+Victor Martinez,Tom Nolan,2024-05-18,"Las Vegas, Nevada, USA",Usa,Tom Nolan,False,Lightweight,Australian,Victor Martinez,Other
 Alexandre Pantoja,Steve Erceg,2024-05-04,"Rio de Janeiro, Rio de Janeiro, Brazil",Brazil,Alexandre Pantoja,True,Flyweight,Other,Steve Erceg,Australian
 Mauricio Ruffy,Jamie Mullarkey,2024-05-04,"Rio de Janeiro, Rio de Janeiro, Brazil",Brazil,Mauricio Ruffy,False,Lightweight,Other,Jamie Mullarkey,Australian
-Andre Petroski,Jacob Malkoun,2024-03-30,"Atlantic City, New Jersey, USA",USA,Jacob Malkoun,False,Middleweight,Australian,Andre Petroski,Other
-Karl Williams,Justin Tafa,2024-03-23,"Las Vegas, Nevada, USA",USA,Karl Williams,False,Heavyweight,Other,Justin Tafa,Australian
-Tai Tuivasa,Marcin Tybura,2024-03-16,"Las Vegas, Nevada, USA",USA,Marcin Tybura,False,Heavyweight,Other,Tai Tuivasa,Australian
-Gilbert Burns,Jack Della Maddalena,2024-03-09,"Miami, Florida, USA",USA,Jack Della Maddalena,False,Welterweight,Australian,Gilbert Burns,Other
-Vitor Petrino,Tyson Pedro,2024-03-02,"Las Vegas, Nevada, USA",USA,Vitor Petrino,False,Light Heavyweight,Other,Tyson Pedro,Australian
-Matt Schnell,Steve Erceg,2024-03-02,"Las Vegas, Nevada, USA",USA,Steve Erceg,False,Flyweight,Australian,Matt Schnell,Other
-Alexander Volkanovski,Ilia Topuria,2024-02-17,"Anaheim, California, USA",USA,Ilia Topuria,True,Featherweight,Other,Alexander Volkanovski,Australian
-Robert Whittaker,Paulo Costa,2024-02-17,"Anaheim, California, USA",USA,Robert Whittaker,False,Middleweight,Australian,Paulo Costa,Other
-Marcos Rogerio de Lima,Junior Tafa,2024-02-17,"Anaheim, California, USA",USA,Marcos Rogerio de Lima,False,Heavyweight,Other,Junior Tafa,Australian
-Nikolas Motta,Tom Nolan,2024-01-13,"Las Vegas, Nevada, USA",USA,Nikolas Motta,False,Lightweight,Other,Tom Nolan,Australian
-Nasrat Haqparast,Jamie Mullarkey,2023-12-09,"Las Vegas, Nevada, USA",USA,Nasrat Haqparast,False,Lightweight,Other,Jamie Mullarkey,Australian
-HyunSung Park,Shannon Ross,2023-12-09,"Las Vegas, Nevada, USA",USA,HyunSung Park,False,Flyweight,Other,Shannon Ross,Australian
-Michael Morales,Jake Matthews,2023-11-18,"Las Vegas, Nevada, USA",USA,Michael Morales,False,Welterweight,Other,Jake Matthews,Australian
-Steve Erceg,Alessandro Costa,2023-11-11,"New York City, New York, USA",USA,Steve Erceg,False,Flyweight,Australian,Alessandro Costa,Other
+Andre Petroski,Jacob Malkoun,2024-03-30,"Atlantic City, New Jersey, USA",Usa,Jacob Malkoun,False,Middleweight,Australian,Andre Petroski,Other
+Karl Williams,Justin Tafa,2024-03-23,"Las Vegas, Nevada, USA",Usa,Karl Williams,False,Heavyweight,Other,Justin Tafa,Australian
+Tai Tuivasa,Marcin Tybura,2024-03-16,"Las Vegas, Nevada, USA",Usa,Marcin Tybura,False,Heavyweight,Other,Tai Tuivasa,Australian
+Gilbert Burns,Jack Della Maddalena,2024-03-09,"Miami, Florida, USA",Usa,Jack Della Maddalena,False,Welterweight,Australian,Gilbert Burns,Other
+Vitor Petrino,Tyson Pedro,2024-03-02,"Las Vegas, Nevada, USA",Usa,Vitor Petrino,False,Light Heavyweight,Other,Tyson Pedro,Australian
+Matt Schnell,Steve Erceg,2024-03-02,"Las Vegas, Nevada, USA",Usa,Steve Erceg,False,Flyweight,Australian,Matt Schnell,Other
+Alexander Volkanovski,Ilia Topuria,2024-02-17,"Anaheim, California, USA",Usa,Ilia Topuria,True,Featherweight,Other,Alexander Volkanovski,Australian
+Robert Whittaker,Paulo Costa,2024-02-17,"Anaheim, California, USA",Usa,Robert Whittaker,False,Middleweight,Australian,Paulo Costa,Other
+Marcos Rogerio de Lima,Junior Tafa,2024-02-17,"Anaheim, California, USA",Usa,Marcos Rogerio de Lima,False,Heavyweight,Other,Junior Tafa,Australian
+Nikolas Motta,Tom Nolan,2024-01-13,"Las Vegas, Nevada, USA",Usa,Nikolas Motta,False,Lightweight,Other,Tom Nolan,Australian
+Casey O'Neill,Ariane da Silva,2023-12-16,"Las Vegas, Nevada, USA",Usa,Ariane da Silva,False,Women's Flyweight,Other,Casey O'Neill,Australian
+Nasrat Haqparast,Jamie Mullarkey,2023-12-09,"Las Vegas, Nevada, USA",Usa,Nasrat Haqparast,False,Lightweight,Other,Jamie Mullarkey,Australian
+HyunSung Park,Shannon Ross,2023-12-09,"Las Vegas, Nevada, USA",Usa,HyunSung Park,False,Flyweight,Other,Shannon Ross,Australian
+Michael Morales,Jake Matthews,2023-11-18,"Las Vegas, Nevada, USA",Usa,Michael Morales,False,Welterweight,Other,Jake Matthews,Australian
+Steve Erceg,Alessandro Costa,2023-11-11,"New York City, New York, USA",Usa,Steve Erceg,False,Flyweight,Australian,Alessandro Costa,Other
 Islam Makhachev,Alexander Volkanovski,2023-10-21,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Islam Makhachev,True,Lightweight,Other,Alexander Volkanovski,Australian
-Jacob Malkoun,Cody Brundage,2023-09-23,"Las Vegas, Nevada, USA",USA,Cody Brundage,False,Middleweight,Other,Jacob Malkoun,Australian
-Kevin Holland,Jack Della Maddalena,2023-09-16,"Las Vegas, Nevada, USA",USA,Jack Della Maddalena,False,Welterweight,Australian,Kevin Holland,Other
+Jacob Malkoun,Cody Brundage,2023-09-23,"Las Vegas, Nevada, USA",Usa,Cody Brundage,False,Middleweight,Other,Jacob Malkoun,Australian
+Kevin Holland,Jack Della Maddalena,2023-09-16,"Las Vegas, Nevada, USA",Usa,Jack Della Maddalena,False,Welterweight,Australian,Kevin Holland,Other
 Tai Tuivasa,Alexander Volkov,2023-09-09,"Sydney, New South Wales, Australia",Australia,Alexander Volkov,False,Heavyweight,Other,Tai Tuivasa,Australian
 Justin Tafa,Austen Lane,2023-09-09,"Sydney, New South Wales, Australia",Australia,Justin Tafa,False,Heavyweight,Australian,Austen Lane,Other
 Tyson Pedro,Anton Turkalj,2023-09-09,"Sydney, New South Wales, Australia",Australia,Tyson Pedro,False,Light Heavyweight,Australian,Anton Turkalj,Other
 Jack Jenkins,Chepe Mariscal,2023-09-09,"Sydney, New South Wales, Australia",Australia,Chepe Mariscal,False,Featherweight,Other,Jack Jenkins,Australian
 Jamie Mullarkey,John Makdessi,2023-09-09,"Sydney, New South Wales, Australia",Australia,Jamie Mullarkey,False,Lightweight,Australian,John Makdessi,Other
 Junior Tafa,Parker Porter,2023-08-26,"Kallang, Singapore",Singapore,Junior Tafa,False,Heavyweight,Australian,Parker Porter,Other
-Jake Matthews,Darrius Flowers,2023-07-29,"Salt Lake City, Utah, USA",USA,Jake Matthews,False,Welterweight,Australian,Darrius Flowers,Other
-Jack Della Maddalena,Bassil Hafez,2023-07-15,"Las Vegas, Nevada, USA",USA,Jack Della Maddalena,False,Welterweight,Australian,Bassil Hafez,Other
-Alexander Volkanovski,Yair Rodriguez,2023-07-08,"Las Vegas, Nevada, USA",USA,Alexander Volkanovski,True,Featherweight,Australian,Yair Rodriguez,Other
-Robert Whittaker,Dricus Du Plessis,2023-07-08,"Las Vegas, Nevada, USA",USA,Dricus Du Plessis,False,Middleweight,Other,Robert Whittaker,Australian
-Jimmy Crute,Alonzo Menifield,2023-07-08,"Las Vegas, Nevada, USA",USA,Alonzo Menifield,False,Light Heavyweight,Other,Jimmy Crute,Australian
-Shannon Ross,Jesus Aguilar,2023-07-08,"Las Vegas, Nevada, USA",USA,Jesus Aguilar,False,Flyweight,Other,Shannon Ross,Australian
-Jamall Emmers,Jack Jenkins,2023-06-24,"Jacksonville, Florida, USA",USA,Jack Jenkins,False,Featherweight,Australian,Jamall Emmers,Other
+Jake Matthews,Darrius Flowers,2023-07-29,"Salt Lake City, Utah, USA",Usa,Jake Matthews,False,Welterweight,Australian,Darrius Flowers,Other
+Jack Della Maddalena,Bassil Hafez,2023-07-15,"Las Vegas, Nevada, USA",Usa,Jack Della Maddalena,False,Welterweight,Australian,Bassil Hafez,Other
+Alexander Volkanovski,Yair Rodriguez,2023-07-08,"Las Vegas, Nevada, USA",Usa,Alexander Volkanovski,True,Featherweight,Australian,Yair Rodriguez,Other
+Robert Whittaker,Dricus Du Plessis,2023-07-08,"Las Vegas, Nevada, USA",Usa,Dricus Du Plessis,False,Middleweight,Other,Robert Whittaker,Australian
+Jimmy Crute,Alonzo Menifield,2023-07-08,"Las Vegas, Nevada, USA",Usa,Alonzo Menifield,False,Light Heavyweight,Other,Jimmy Crute,Australian
+Shannon Ross,Jesus Aguilar,2023-07-08,"Las Vegas, Nevada, USA",Usa,Jesus Aguilar,False,Flyweight,Other,Shannon Ross,Australian
+Jamall Emmers,Jack Jenkins,2023-06-24,"Jacksonville, Florida, USA",Usa,Jack Jenkins,False,Featherweight,Australian,Jamall Emmers,Other
 David Dvorak,Steve Erceg,2023-06-10,"Vancouver, British Columbia, Canada",Canada,Steve Erceg,False,Flyweight,Australian,David Dvorak,Other
-Jamie Mullarkey,Muhammad Naimov,2023-06-03,"Las Vegas, Nevada, USA",USA,Muhammad Naimov,False,Lightweight,Other,Jamie Mullarkey,Australian
-Mohammed Usman,Junior Tafa,2023-04-22,"Las Vegas, Nevada, USA",USA,Mohammed Usman,False,Heavyweight,Other,Junior Tafa,Australian
+Jamie Mullarkey,Muhammad Naimov,2023-06-03,"Las Vegas, Nevada, USA",Usa,Muhammad Naimov,False,Lightweight,Other,Jamie Mullarkey,Australian
+Jessica-Rose Clark,Tainara Lisboa,2023-05-13,"Charlotte, North Carolina, USA",Usa,Tainara Lisboa,False,Women's Bantamweight,Other,Jessica-Rose Clark,Australian
+Mohammed Usman,Junior Tafa,2023-04-22,"Las Vegas, Nevada, USA",Usa,Mohammed Usman,False,Heavyweight,Other,Junior Tafa,Australian
+Jennifer Maia,Casey O'Neill,2023-03-18,"London, England, United Kingdom",United Kingdom,Jennifer Maia,False,Women's Flyweight,Other,Casey O'Neill,Australian
 Islam Makhachev,Alexander Volkanovski,2023-02-11,"Perth, Western Australia, Australia",Australia,Islam Makhachev,True,Lightweight,Other,Alexander Volkanovski,Australian
 Jack Della Maddalena,Randy Brown,2023-02-11,"Perth, Western Australia, Australia",Australia,Jack Della Maddalena,False,Welterweight,Australian,Randy Brown,Other
 Justin Tafa,Parker Porter,2023-02-11,"Perth, Western Australia, Australia",Australia,Justin Tafa,False,Heavyweight,Australian,Parker Porter,Other
@@ -53,38 +57,45 @@ Tyson Pedro,Modestas Bukauskas,2023-02-11,"Perth, Western Australia, Australia",
 Shannon Ross,Kleydson Rodrigues,2023-02-11,"Perth, Western Australia, Australia",Australia,Kleydson Rodrigues,False,Flyweight,Other,Shannon Ross,Australian
 Jamie Mullarkey,Francisco Prado,2023-02-11,"Perth, Western Australia, Australia",Australia,Jamie Mullarkey,False,Lightweight,Australian,Francisco Prado,Other
 Jack Jenkins,Don Shainis,2023-02-11,"Perth, Western Australia, Australia",Australia,Jack Jenkins,False,Featherweight,Australian,Don Shainis,Other
-Jake Matthews,Matthew Semelsberger,2022-12-17,"Las Vegas, Nevada, USA",USA,Matthew Semelsberger,False,Welterweight,Other,Jake Matthews,Australian
-Tai Tuivasa,Sergei Pavlovich,2022-12-03,"Orlando, Florida, USA",USA,Sergei Pavlovich,False,Heavyweight,Other,Tai Tuivasa,Australian
-Jack Della Maddalena,Danny Roberts,2022-11-19,"Las Vegas, Nevada, USA",USA,Jack Della Maddalena,False,Welterweight,Australian,Danny Roberts,Other
-Nick Maximov,Jacob Malkoun,2022-10-15,"Las Vegas, Nevada, USA",USA,Jacob Malkoun,False,Middleweight,Australian,Nick Maximov,Other
+Jake Matthews,Matthew Semelsberger,2022-12-17,"Las Vegas, Nevada, USA",Usa,Matthew Semelsberger,False,Welterweight,Other,Jake Matthews,Australian
+Tai Tuivasa,Sergei Pavlovich,2022-12-03,"Orlando, Florida, USA",Usa,Sergei Pavlovich,False,Heavyweight,Other,Tai Tuivasa,Australian
+Jack Della Maddalena,Danny Roberts,2022-11-19,"Las Vegas, Nevada, USA",Usa,Jack Della Maddalena,False,Welterweight,Australian,Danny Roberts,Other
+Nick Maximov,Jacob Malkoun,2022-10-15,"Las Vegas, Nevada, USA",Usa,Jacob Malkoun,False,Middleweight,Australian,Nick Maximov,Other
 Ciryl Gane,Tai Tuivasa,2022-09-03,"Paris, Ile-de-France, France",France,Ciryl Gane,False,Heavyweight,Other,Tai Tuivasa,Australian
 Robert Whittaker,Marvin Vettori,2022-09-03,"Paris, Ile-de-France, France",France,Robert Whittaker,False,Middleweight,Australian,Marvin Vettori,Other
-Tyson Pedro,Harry Hunsucker,2022-08-20,"Salt Lake City, Utah, USA",USA,Tyson Pedro,False,Light Heavyweight,Australian,Harry Hunsucker,Other
-Michael Johnson,Jamie Mullarkey,2022-07-09,"Las Vegas, Nevada, USA",USA,Jamie Mullarkey,False,Lightweight,Australian,Michael Johnson,Other
-Alexander Volkanovski,Max Holloway,2022-07-02,"Las Vegas, Nevada, USA",USA,Alexander Volkanovski,True,Featherweight,Australian,Max Holloway,Other
+Tyson Pedro,Harry Hunsucker,2022-08-20,"Salt Lake City, Utah, USA",Usa,Tyson Pedro,False,Light Heavyweight,Australian,Harry Hunsucker,Other
+Michael Johnson,Jamie Mullarkey,2022-07-09,"Las Vegas, Nevada, USA",Usa,Jamie Mullarkey,False,Lightweight,Australian,Michael Johnson,Other
+Alexander Volkanovski,Max Holloway,2022-07-02,"Las Vegas, Nevada, USA",Usa,Alexander Volkanovski,True,Featherweight,Australian,Max Holloway,Other
+Jessica-Rose Clark,Julija Stoliarenko,2022-07-02,"Las Vegas, Nevada, USA",Usa,Julija Stoliarenko,False,Women's Bantamweight,Other,Jessica-Rose Clark,Australian
 Andre Fialho,Jake Matthews,2022-06-11,"Kallang, Singapore",Singapore,Jake Matthews,False,Welterweight,Australian,Andre Fialho,Other
 Jack Della Maddalena,Ramazan Emeev,2022-06-11,"Kallang, Singapore",Singapore,Jack Della Maddalena,False,Welterweight,Australian,Ramazan Emeev,Other
 Brendan Allen,Jacob Malkoun,2022-06-11,"Kallang, Singapore",Singapore,Brendan Allen,False,Middleweight,Other,Jacob Malkoun,Australian
-Tyson Pedro,Ike Villanueva,2022-04-23,"Las Vegas, Nevada, USA",USA,Tyson Pedro,False,Light Heavyweight,Australian,Ike Villanueva,Other
-Alexander Volkanovski,Chan Sung Jung,2022-04-09,"Jacksonville, Florida, USA",USA,Alexander Volkanovski,True,Featherweight,Australian,Chan Sung Jung,Other
-Jalin Turner,Jamie Mullarkey,2022-03-05,"Las Vegas, Nevada, USA",USA,Jalin Turner,False,Lightweight,Other,Jamie Mullarkey,Australian
-Israel Adesanya,Robert Whittaker,2022-02-12,"Houston, Texas, USA",USA,Israel Adesanya,True,Middleweight,Other,Robert Whittaker,Australian
-Derrick Lewis,Tai Tuivasa,2022-02-12,"Houston, Texas, USA",USA,Tai Tuivasa,False,Heavyweight,Australian,Derrick Lewis,Other
-AJ Dobson,Jacob Malkoun,2022-02-12,"Houston, Texas, USA",USA,Jacob Malkoun,False,Middleweight,Australian,AJ Dobson,Other
-Jack Della Maddalena,Pete Rodriguez,2022-01-22,"Anaheim, California, USA",USA,Jack Della Maddalena,False,Welterweight,Australian,Pete Rodriguez,Other
-Justin Tafa,Harry Hunsucker,2021-12-18,"Las Vegas, Nevada, USA",USA,Justin Tafa,False,Heavyweight,Australian,Harry Hunsucker,Other
-Augusto Sakai,Tai Tuivasa,2021-12-11,"Las Vegas, Nevada, USA",USA,Tai Tuivasa,False,Heavyweight,Australian,Augusto Sakai,Other
-Jimmy Crute,Jamahal Hill,2021-12-04,"Las Vegas, Nevada, USA",USA,Jamahal Hill,False,Light Heavyweight,Other,Jimmy Crute,Australian
-Devonte Smith,Jamie Mullarkey,2021-10-02,"Las Vegas, Nevada, USA",USA,Jamie Mullarkey,False,Lightweight,Australian,Devonte Smith,Other
-Alexander Volkanovski,Brian Ortega,2021-09-25,"Las Vegas, Nevada, USA",USA,Alexander Volkanovski,True,Featherweight,Australian,Brian Ortega,Other
-Tai Tuivasa,Greg Hardy,2021-07-10,"Las Vegas, Nevada, USA",USA,Tai Tuivasa,False,Heavyweight,Australian,Greg Hardy,Other
-Justin Tafa,Jared Vanderaa,2021-05-22,"Las Vegas, Nevada, USA",USA,Jared Vanderaa,False,Heavyweight,Other,Justin Tafa,Australian
-Anthony Smith,Jimmy Crute,2021-04-24,"Jacksonville, Florida, USA",USA,Anthony Smith,False,Light Heavyweight,Other,Jimmy Crute,Australian
-Robert Whittaker,Kelvin Gastelum,2021-04-17,"Las Vegas, Nevada, USA",USA,Robert Whittaker,False,Middleweight,Australian,Kelvin Gastelum,Other
-Abdul Razak Alhassan,Jacob Malkoun,2021-04-17,"Las Vegas, Nevada, USA",USA,Jacob Malkoun,False,Middleweight,Australian,Abdul Razak Alhassan,Other
-Jamie Mullarkey,Khama Worthy,2021-03-27,"Las Vegas, Nevada, USA",USA,Jamie Mullarkey,False,Lightweight,Australian,Khama Worthy,Other
-Tai Tuivasa,Harry Hunsucker,2021-03-20,"Las Vegas, Nevada, USA",USA,Tai Tuivasa,False,Heavyweight,Australian,Harry Hunsucker,Other
-Sean Brady,Jake Matthews,2021-03-06,"Las Vegas, Nevada, USA",USA,Sean Brady,False,Welterweight,Other,Jake Matthews,Australian
+Tyson Pedro,Ike Villanueva,2022-04-23,"Las Vegas, Nevada, USA",Usa,Tyson Pedro,False,Light Heavyweight,Australian,Ike Villanueva,Other
+Alexander Volkanovski,Chan Sung Jung,2022-04-09,"Jacksonville, Florida, USA",Usa,Alexander Volkanovski,True,Featherweight,Australian,Chan Sung Jung,Other
+Jalin Turner,Jamie Mullarkey,2022-03-05,"Las Vegas, Nevada, USA",Usa,Jalin Turner,False,Lightweight,Other,Jamie Mullarkey,Australian
+Jessica-Rose Clark,Stephanie Egger,2022-02-19,"Las Vegas, Nevada, USA",Usa,Stephanie Egger,False,Women's Bantamweight,Other,Jessica-Rose Clark,Australian
+Israel Adesanya,Robert Whittaker,2022-02-12,"Houston, Texas, USA",Usa,Israel Adesanya,True,Middleweight,Other,Robert Whittaker,Australian
+Derrick Lewis,Tai Tuivasa,2022-02-12,"Houston, Texas, USA",Usa,Tai Tuivasa,False,Heavyweight,Australian,Derrick Lewis,Other
+Roxanne Modafferi,Casey O'Neill,2022-02-12,"Houston, Texas, USA",Usa,Casey O'Neill,False,Women's Flyweight,Australian,Roxanne Modafferi,Other
+AJ Dobson,Jacob Malkoun,2022-02-12,"Houston, Texas, USA",Usa,Jacob Malkoun,False,Middleweight,Australian,AJ Dobson,Other
+Jack Della Maddalena,Pete Rodriguez,2022-01-22,"Anaheim, California, USA",Usa,Jack Della Maddalena,False,Welterweight,Australian,Pete Rodriguez,Other
+Justin Tafa,Harry Hunsucker,2021-12-18,"Las Vegas, Nevada, USA",Usa,Justin Tafa,False,Heavyweight,Australian,Harry Hunsucker,Other
+Augusto Sakai,Tai Tuivasa,2021-12-11,"Las Vegas, Nevada, USA",Usa,Tai Tuivasa,False,Heavyweight,Australian,Augusto Sakai,Other
+Jimmy Crute,Jamahal Hill,2021-12-04,"Las Vegas, Nevada, USA",Usa,Jamahal Hill,False,Light Heavyweight,Other,Jimmy Crute,Australian
+Jessica-Rose Clark,Joselyne Edwards,2021-10-23,"Las Vegas, Nevada, USA",Usa,Jessica-Rose Clark,False,Women's Bantamweight,Australian,Joselyne Edwards,Other
+Antonina Shevchenko,Casey O'Neill,2021-10-02,"Las Vegas, Nevada, USA",Usa,Casey O'Neill,False,Women's Flyweight,Australian,Antonina Shevchenko,Other
+Devonte Smith,Jamie Mullarkey,2021-10-02,"Las Vegas, Nevada, USA",Usa,Jamie Mullarkey,False,Lightweight,Australian,Devonte Smith,Other
+Alexander Volkanovski,Brian Ortega,2021-09-25,"Las Vegas, Nevada, USA",Usa,Alexander Volkanovski,True,Featherweight,Australian,Brian Ortega,Other
+Tai Tuivasa,Greg Hardy,2021-07-10,"Las Vegas, Nevada, USA",Usa,Tai Tuivasa,False,Heavyweight,Australian,Greg Hardy,Other
+Casey O'Neill,Lara Procopio,2021-06-19,"Las Vegas, Nevada, USA",Usa,Casey O'Neill,False,Women's Flyweight,Australian,Lara Procopio,Other
+Justin Tafa,Jared Vanderaa,2021-05-22,"Las Vegas, Nevada, USA",Usa,Jared Vanderaa,False,Heavyweight,Other,Justin Tafa,Australian
+Anthony Smith,Jimmy Crute,2021-04-24,"Jacksonville, Florida, USA",Usa,Anthony Smith,False,Light Heavyweight,Other,Jimmy Crute,Australian
+Robert Whittaker,Kelvin Gastelum,2021-04-17,"Las Vegas, Nevada, USA",Usa,Robert Whittaker,False,Middleweight,Australian,Kelvin Gastelum,Other
+Abdul Razak Alhassan,Jacob Malkoun,2021-04-17,"Las Vegas, Nevada, USA",Usa,Jacob Malkoun,False,Middleweight,Australian,Abdul Razak Alhassan,Other
+Jamie Mullarkey,Khama Worthy,2021-03-27,"Las Vegas, Nevada, USA",Usa,Jamie Mullarkey,False,Lightweight,Australian,Khama Worthy,Other
+Tai Tuivasa,Harry Hunsucker,2021-03-20,"Las Vegas, Nevada, USA",Usa,Tai Tuivasa,False,Heavyweight,Australian,Harry Hunsucker,Other
+Sean Brady,Jake Matthews,2021-03-06,"Las Vegas, Nevada, USA",Usa,Sean Brady,False,Welterweight,Other,Jake Matthews,Australian
+Shana Dobson,Casey O'Neill,2021-02-20,"Las Vegas, Nevada, USA",Usa,Casey O'Neill,False,Women's Flyweight,Australian,Shana Dobson,Other
 Carlos Felipe,Justin Tafa,2021-01-16,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Carlos Felipe,False,Heavyweight,Other,Justin Tafa,Australian
 Robert Whittaker,Jared Cannonier,2020-10-24,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Robert Whittaker,False,Middleweight,Australian,Jared Cannonier,Other
 Jacob Malkoun,Phillip Hawes,2020-10-24,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Phillip Hawes,False,Middleweight,Other,Jacob Malkoun,Australian
@@ -92,162 +103,180 @@ Stefan Struve,Tai Tuivasa,2020-10-24,"Abu Dhabi, Abu Dhabi, United Arab Emirates
 Jimmy Crute,Modestas Bukauskas,2020-10-17,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Jimmy Crute,False,Light Heavyweight,Australian,Modestas Bukauskas,Other
 Jamie Mullarkey,Fares Ziam,2020-10-17,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Fares Ziam,False,Lightweight,Other,Jamie Mullarkey,Australian
 Diego Sanchez,Jake Matthews,2020-09-26,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Jake Matthews,False,Welterweight,Australian,Diego Sanchez,Other
+Jessica-Rose Clark,Sarah Alpar,2020-09-19,"Las Vegas, Nevada, USA",Usa,Jessica-Rose Clark,False,Women's Bantamweight,Australian,Sarah Alpar,Other
 Robert Whittaker,Darren Till,2020-07-25,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Robert Whittaker,False,Middleweight,Australian,Darren Till,Other
 Alexander Volkanovski,Max Holloway,2020-07-11,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Alexander Volkanovski,True,Featherweight,Australian,Max Holloway,Other
-Ben Sosoli,Marcos Rogerio De Lima,2020-02-22,"Auckland, New Zealand", New Zealand,Marcos Rogerio De Lima,False,Heavyweight,Other,Ben Sosoli,Australian
-Jalin Turner,Joshua Culibao,2020-02-22,"Auckland, New Zealand", New Zealand,Jalin Turner,False,Lightweight,Other,Joshua Culibao,Australian
-Jake Matthews,Emil Meek,2020-02-22,"Auckland, New Zealand", New Zealand,Jake Matthews,False,Welterweight,Australian,Emil Meek,Other
-Callan Potter,Song Kenan,2020-02-22,"Auckland, New Zealand", New Zealand,Song Kenan,False,Welterweight,Other,Callan Potter,Australian
-Juan Adams,Justin Tafa,2020-02-08,"Houston, Texas, USA", USA,Justin Tafa,False,Heavyweight,Australian,Juan Adams,Other
-Seungwoo Choi,Suman Mokhtarian,2019-12-21,"Busan, South Korea", South Korea,Seungwoo Choi,False,Featherweight,Other,Suman Mokhtarian,Australian
-Max Holloway,Alexander Volkanovski,2019-12-14,"Las Vegas, Nevada, USA", USA,Alexander Volkanovski,True,Featherweight,Australian,Max Holloway,Other
-Robert Whittaker,Israel Adesanya,2019-10-05,"Melbourne, Victoria, Australia", Australia,Israel Adesanya,True,Middleweight,Other,Robert Whittaker,Australian
-Tai Tuivasa,Serghei Spivac,2019-10-05,"Melbourne, Victoria, Australia", Australia,Serghei Spivac,False,Heavyweight,Other,Tai Tuivasa,Australian
-Justin Tafa,Yorgan De Castro,2019-10-05,"Melbourne, Victoria, Australia", Australia,Yorgan De Castro,False,Heavyweight,Other,Justin Tafa,Australian
-Jake Matthews,Rostem Akman,2019-10-05,"Melbourne, Victoria, Australia", Australia,Jake Matthews,False,Welterweight,Australian,Rostem Akman,Other
-Callan Potter,Maki Pitolo,2019-10-05,"Melbourne, Victoria, Australia", Australia,Callan Potter,False,Welterweight,Australian,Maki Pitolo,Other
-Brad Riddell,Jamie Mullarkey,2019-10-05,"Melbourne, Victoria, Australia", Australia,Brad Riddell,False,Lightweight,Other,Jamie Mullarkey,Australian
-Misha Cirkunov,Jimmy Crute,2019-09-14,"Vancouver, British Columbia, Canada", Canada,Misha Cirkunov,False,Light Heavyweight,Other,Jimmy Crute,Australian
-Tai Tuivasa,Blagoy Ivanov,2019-06-08,"Chicago, Illinois, USA", USA,Blagoy Ivanov,False,Heavyweight,Other,Tai Tuivasa,Australian
-Jose Aldo,Alexander Volkanovski,2019-05-11,"Rio de Janeiro, Rio de Janeiro, Brazil", Brazil,Alexander Volkanovski,False,Featherweight,Australian,Jose Aldo,Other
-Jimmy Crute,Sam Alvey,2019-02-09,"Melbourne, Victoria, Australia", Australia,Jimmy Crute,False,Light Heavyweight,Australian,Sam Alvey,Other
-Callan Potter,Jalin Turner,2019-02-09,"Melbourne, Victoria, Australia", Australia,Jalin Turner,False,Lightweight,Other,Callan Potter,Australian
-Chad Mendes,Alexander Volkanovski,2018-12-29,"Los Angeles, California, USA", USA,Alexander Volkanovski,False,Featherweight,Australian,Chad Mendes,Other
-Junior Dos Santos,Tai Tuivasa,2018-12-01,"Adelaide, South Australia, Australia", Australia,Junior Dos Santos,False,Heavyweight,Other,Tai Tuivasa,Australian
-Mauricio Rua,Tyson Pedro,2018-12-01,"Adelaide, South Australia, Australia", Australia,Mauricio Rua,False,Light Heavyweight,Other,Tyson Pedro,Australian
-Mark Hunt,Justin Willis,2018-12-01,"Adelaide, South Australia, Australia", Australia,Justin Willis,False,Heavyweight,Other,Mark Hunt,Australian
-Jake Matthews,Anthony Rocco Martin,2018-12-01,"Adelaide, South Australia, Australia", Australia,Anthony Rocco Martin,False,Welterweight,Other,Jake Matthews,Australian
-Suman Mokhtarian,Sodiq Yusuff,2018-12-01,"Adelaide, South Australia, Australia", Australia,Sodiq Yusuff,False,Featherweight,Other,Suman Mokhtarian,Australian
-Jimmy Crute,Paul Craig,2018-12-01,"Adelaide, South Australia, Australia", Australia,Jimmy Crute,False,Light Heavyweight,Australian,Paul Craig,Other
-Wilson Reis,Ben Nguyen,2018-12-01,"Adelaide, South Australia, Australia", Australia,Wilson Reis,False,Flyweight,Other,Ben Nguyen,Australian
-Mark Hunt,Aleksei Oleinik,2018-09-15,"Moscow, Moscow, Russia", Russia,Aleksei Oleinik,False,Heavyweight,Other,Mark Hunt,Australian
-Darren Elkins,Alexander Volkanovski,2018-07-14,"Boise, Idaho, USA", USA,Alexander Volkanovski,False,Featherweight,Australian,Darren Elkins,Other
-Ovince Saint Preux,Tyson Pedro,2018-06-23,"Kallang, Singapore", Singapore,Ovince Saint Preux,False,Light Heavyweight,Other,Tyson Pedro,Australian
-Shinsho Anzai,Jake Matthews,2018-06-23,"Kallang, Singapore", Singapore,Jake Matthews,False,Welterweight,Australian,Shinsho Anzai,Other
-Robert Whittaker,Yoel Romero,2018-06-09,"Chicago, Illinois, USA", USA,Robert Whittaker,False,Middleweight,Australian,Yoel Romero,Other
-Andrei Arlovski,Tai Tuivasa,2018-06-09,"Chicago, Illinois, USA", USA,Tai Tuivasa,False,Heavyweight,Australian,Andrei Arlovski,Other
-Daniel Kelly,Tom Breese,2018-05-27,"Liverpool, England, United Kingdom", United Kingdom,Tom Breese,False,Middleweight,Other,Daniel Kelly,Australian
-Mark Hunt,Curtis Blaydes,2018-02-10,"Perth, Western Australia, Australia", Australia,Curtis Blaydes,False,Heavyweight,Other,Mark Hunt,Australian
-Tai Tuivasa,Cyril Asker,2018-02-10,"Perth, Western Australia, Australia", Australia,Tai Tuivasa,False,Heavyweight,Australian,Cyril Asker,Other
-Jake Matthews,Li Jingliang,2018-02-10,"Perth, Western Australia, Australia", Australia,Jake Matthews,False,Welterweight,Australian,Li Jingliang,Other
-Tyson Pedro,Saparbeg Safarov,2018-02-10,"Perth, Western Australia, Australia", Australia,Tyson Pedro,False,Light Heavyweight,Australian,Saparbeg Safarov,Other
-Damien Brown,Dong Hyun Ma,2018-02-10,"Perth, Western Australia, Australia", Australia,Dong Hyun Ma,False,Lightweight,Other,Damien Brown,Australian
-Rob Wilkinson,Israel Adesanya,2018-02-10,"Perth, Western Australia, Australia", Australia,Israel Adesanya,False,Middleweight,Other,Rob Wilkinson,Australian
-Alexander Volkanovski,Jeremy Kennedy,2018-02-10,"Perth, Western Australia, Australia", Australia,Alexander Volkanovski,False,Featherweight,Australian,Jeremy Kennedy,Other
-Jussier Formiga,Ben Nguyen,2018-02-10,"Perth, Western Australia, Australia", Australia,Jussier Formiga,False,Flyweight,Other,Ben Nguyen,Australian
-Jake Matthews,Bojan Velickovic,2017-11-18,"Sydney, New South Wales, Australia", Australia,Jake Matthews,False,Welterweight,Australian,Bojan Velickovic,Other
-Elias Theodorou,Daniel Kelly,2017-11-18,"Sydney, New South Wales, Australia", Australia,Elias Theodorou,False,Middleweight,Other,Daniel Kelly,Australian
-Alexander Volkanovski,Shane Young,2017-11-18,"Sydney, New South Wales, Australia", Australia,Alexander Volkanovski,False,Catch Weight,Australian,Shane Young,Other
-Ryan Benoit,Ashkan Mokhtarian,2017-11-18,"Sydney, New South Wales, Australia", Australia,Ryan Benoit,False,Flyweight,Other,Ashkan Mokhtarian,Australian
-Rashad Coulter,Tai Tuivasa,2017-11-18,"Sydney, New South Wales, Australia", Australia,Tai Tuivasa,False,Heavyweight,Australian,Rashad Coulter,Other
-Damien Brown,Frank Camacho,2017-11-18,"Sydney, New South Wales, Australia", Australia,Frank Camacho,False,Lightweight,Other,Damien Brown,Australian
-Ilir Latifi,Tyson Pedro,2017-09-09,"Edmonton, Alberta, Canada", Canada,Ilir Latifi,False,Light Heavyweight,Other,Tyson Pedro,Australian
-Siyar Bahadurzada,Rob Wilkinson,2017-09-02,"Rotterdam, Zuid-Holland, Netherlands", Netherlands,Siyar Bahadurzada,False,Middleweight,Other,Rob Wilkinson,Australian
-Yoel Romero,Robert Whittaker,2017-07-08,"Las Vegas, Nevada, USA", USA,Robert Whittaker,True,Middleweight,Australian,Yoel Romero,Other
-Derrick Lewis,Mark Hunt,2017-06-10,"Auckland, New Zealand", New Zealand,Mark Hunt,False,Heavyweight,Australian,Derrick Lewis,Other
-Derek Brunson,Daniel Kelly,2017-06-10,"Auckland, New Zealand", New Zealand,Derek Brunson,False,Middleweight,Other,Daniel Kelly,Australian
-Tim Elliott,Ben Nguyen,2017-06-10,"Auckland, New Zealand", New Zealand,Ben Nguyen,False,Flyweight,Australian,Tim Elliott,Other
-Alexander Volkanovski,Mizuto Hirota,2017-06-10,"Auckland, New Zealand", New Zealand,Alexander Volkanovski,False,Featherweight,Australian,Mizuto Hirota,Other
-Damien Brown,Vinc Pichel,2017-06-10,"Auckland, New Zealand", New Zealand,Vinc Pichel,False,Lightweight,Other,Damien Brown,Australian
-John Moraga,Ashkan Mokhtarian,2017-06-10,"Auckland, New Zealand", New Zealand,John Moraga,False,Flyweight,Other,Ashkan Mokhtarian,Australian
-Jacare Souza,Robert Whittaker,2017-04-15,"Kansas City, Missouri, USA", USA,Robert Whittaker,False,Middleweight,Australian,Jacare Souza,Other
-Rashad Evans,Daniel Kelly,2017-03-04,"Las Vegas, Nevada, USA", USA,Daniel Kelly,False,Middleweight,Australian,Rashad Evans,Other
-Alistair Overeem,Mark Hunt,2017-03-04,"Las Vegas, Nevada, USA", USA,Alistair Overeem,False,Heavyweight,Other,Mark Hunt,Australian
-Tyson Pedro,Paul Craig,2017-03-04,"Las Vegas, Nevada, USA", USA,Tyson Pedro,False,Light Heavyweight,Australian,Paul Craig,Other
-Dong Hyun Ma,Brendan O'Reilly,2016-12-03,"Las Vegas, Nevada, USA", USA,Dong Hyun Ma,False,Lightweight,Other,Brendan O'Reilly,Australian
-Robert Whittaker,Derek Brunson,2016-11-26,"Melbourne, Victoria, Australia", Australia,Robert Whittaker,False,Middleweight,Australian,Derek Brunson,Other
-Jake Matthews,Andrew Holbrook,2016-11-26,"Melbourne, Victoria, Australia", Australia,Andrew Holbrook,False,Lightweight,Other,Jake Matthews,Australian
-Yusuke Kasuya,Alexander Volkanovski,2016-11-26,"Melbourne, Victoria, Australia", Australia,Alexander Volkanovski,False,Lightweight,Australian,Yusuke Kasuya,Other
-Khalil Rountree Jr.,Tyson Pedro,2016-11-26,"Melbourne, Victoria, Australia", Australia,Tyson Pedro,False,Light Heavyweight,Australian,Khalil Rountree Jr.,Other
-Daniel Kelly,Chris Camozzi,2016-11-26,"Melbourne, Victoria, Australia", Australia,Daniel Kelly,False,Middleweight,Australian,Chris Camozzi,Other
-Damien Brown,Jon Tuck,2016-11-26,"Melbourne, Victoria, Australia", Australia,Damien Brown,False,Lightweight,Australian,Jon Tuck,Other
-Ben Nguyen,Geane Herrera,2016-11-26,"Melbourne, Victoria, Australia", Australia,Ben Nguyen,False,Flyweight,Australian,Geane Herrera,Other
-Cesar Arzamendia,Damien Brown,2016-07-30,"Atlanta, Georgia, USA", USA,Damien Brown,False,Lightweight,Australian,Cesar Arzamendia,Other
-Louis Smolka,Ben Nguyen,2016-07-13,"Sioux Falls, South Dakota, USA", USA,Louis Smolka,False,Flyweight,Other,Ben Nguyen,Australian
-Jake Matthews,Kevin Lee,2016-07-08,"Las Vegas, Nevada, USA", USA,Kevin Lee,False,Lightweight,Other,Jake Matthews,Australian
-Robert Whittaker,Rafael Natal,2016-04-23,"Las Vegas, Nevada, USA", USA,Robert Whittaker,False,Middleweight,Australian,Rafael Natal,Other
-Mark Hunt,Frank Mir,2016-03-19,"Brisbane, Queensland, Australia", Australia,Mark Hunt,False,Heavyweight,Australian,Frank Mir,Other
-Jake Matthews,Johnny Case,2016-03-19,"Brisbane, Queensland, Australia", Australia,Jake Matthews,False,Lightweight,Australian,Johnny Case,Other
-Daniel Kelly,Antonio Carlos Junior,2016-03-19,"Brisbane, Queensland, Australia", Australia,Daniel Kelly,False,Middleweight,Australian,Antonio Carlos Junior,Other
-James Te Huna,Steve Bosse,2016-03-19,"Brisbane, Queensland, Australia", Australia,Steve Bosse,False,Light Heavyweight,Other,James Te Huna,Australian
-Brendan O'Reilly,Alan Jouban,2016-03-19,"Brisbane, Queensland, Australia", Australia,Alan Jouban,False,Welterweight,Other,Brendan O'Reilly,Australian
-Alan Patrick,Damien Brown,2016-03-19,"Brisbane, Queensland, Australia", Australia,Alan Patrick,False,Lightweight,Other,Damien Brown,Australian
-Mark Hunt,Antonio Silva,2015-11-14,"Melbourne, Victoria, Australia", Australia,Mark Hunt,False,Heavyweight,Australian,Antonio Silva,Other
-Uriah Hall,Robert Whittaker,2015-11-14,"Melbourne, Victoria, Australia", Australia,Robert Whittaker,False,Middleweight,Australian,Uriah Hall,Other
-Jake Matthews,Akbarh Arreola,2015-11-14,"Melbourne, Victoria, Australia", Australia,Jake Matthews,False,Lightweight,Australian,Akbarh Arreola,Other
-Anthony Perosh,Gian Villante,2015-11-14,"Melbourne, Victoria, Australia", Australia,Gian Villante,False,Light Heavyweight,Other,Anthony Perosh,Australian
-Richie Vaculik,Danny Martinez,2015-11-14,"Melbourne, Victoria, Australia", Australia,Danny Martinez,False,Flyweight,Other,Richie Vaculik,Australian
-Daniel Kelly,Steve Montgomery,2015-11-14,"Melbourne, Victoria, Australia", Australia,Daniel Kelly,False,Middleweight,Australian,Steve Montgomery,Other
-Ben Nguyen,Ryan Benoit,2015-11-14,"Melbourne, Victoria, Australia", Australia,Ben Nguyen,False,Flyweight,Australian,Ryan Benoit,Other
-Antonio Silva,Soa Palelei,2015-08-01,"Rio de Janeiro, Rio de Janeiro, Brazil", Brazil,Antonio Silva,False,Heavyweight,Other,Soa Palelei,Australian
-Stipe Miocic,Mark Hunt,2015-05-09,"Adelaide, South Australia, Australia", Australia,Stipe Miocic,False,Heavyweight,Other,Mark Hunt,Australian
-Brad Tavares,Robert Whittaker,2015-05-09,"Adelaide, South Australia, Australia", Australia,Robert Whittaker,False,Middleweight,Australian,Brad Tavares,Other
-Anthony Perosh,Sean O'Connell,2015-05-09,"Adelaide, South Australia, Australia", Australia,Sean O'Connell,False,Light Heavyweight,Other,Anthony Perosh,Australian
-Jake Matthews,James Vick,2015-05-09,"Adelaide, South Australia, Australia", Australia,James Vick,False,Lightweight,Other,Jake Matthews,Australian
-Daniel Kelly,Sam Alvey,2015-05-09,"Adelaide, South Australia, Australia", Australia,Sam Alvey,False,Middleweight,Other,Daniel Kelly,Australian
-Dylan Andrews,Bradley Scott,2015-05-09,"Adelaide, South Australia, Australia", Australia,Bradley Scott,False,Middleweight,Other,Dylan Andrews,Australian
-Vik Grujic,Brendan O'Reilly,2015-05-09,"Adelaide, South Australia, Australia", Australia,Brendan O'Reilly,False,Welterweight,Australian,Vik Grujic,Australian
-Alptekin Ozkilic,Ben Nguyen,2015-05-09,"Adelaide, South Australia, Australia", Australia,Ben Nguyen,False,Flyweight,Australian,Alptekin Ozkilic,Other
-Daniel Kelly,Patrick Walsh,2015-02-14,"Broomfield, Colorado, USA", USA,Daniel Kelly,False,Middleweight,Australian,Patrick Walsh,Other
-Fabricio Werdum,Mark Hunt,2014-11-15,"Mexico City, Distrito Federal, Mexico", Mexico,Fabricio Werdum,True,Heavyweight,Other,Mark Hunt,Australian
-Robert Whittaker,Clint Hester,2014-11-07,"Sydney, New South Wales, Australia", Australia,Robert Whittaker,False,Middleweight,Australian,Clint Hester,Other
-Soa Palelei,Walt Harris,2014-11-07,"Sydney, New South Wales, Australia", Australia,Soa Palelei,False,Heavyweight,Australian,Walt Harris,Other
-Jake Matthews,Vagner Rocha,2014-11-07,"Sydney, New South Wales, Australia", Australia,Jake Matthews,False,Lightweight,Australian,Vagner Rocha,Other
-Anthony Perosh,Guto Inocente,2014-11-07,"Sydney, New South Wales, Australia", Australia,Anthony Perosh,False,Light Heavyweight,Australian,Guto Inocente,Other
-Dylan Andrews,Sam Alvey,2014-11-07,"Sydney, New South Wales, Australia", Australia,Sam Alvey,False,Middleweight,Other,Dylan Andrews,Australian
-Richie Vaculik,Louis Smolka,2014-11-07,"Sydney, New South Wales, Australia", Australia,Louis Smolka,False,Flyweight,Other,Richie Vaculik,Australian
-Vik Grujic,Chris Clements,2014-11-07,"Sydney, New South Wales, Australia", Australia,Chris Clements,False,Welterweight,Other,Vik Grujic,Australian
-Luke Zachrich,Daniel Kelly,2014-11-07,"Sydney, New South Wales, Australia", Australia,Daniel Kelly,False,Middleweight,Australian,Luke Zachrich,Other
-Mark Hunt,Roy Nelson,2014-09-20,"Saitama, Japan", Japan,Mark Hunt,False,Heavyweight,Australian,Roy Nelson,Other
-Zhang Lipeng,Brendan O'Reilly,2014-08-23,"Macau, China", China,Zhang Lipeng,False,Lightweight,Other,Brendan O'Reilly,Australian
-James Te Huna,Nate Marquardt,2014-06-28,"Auckland, New Zealand", New Zealand,Nate Marquardt,False,Middleweight,Other,James Te Huna,Australian
-Soa Palelei,Jared Rosholt,2014-06-28,"Auckland, New Zealand", New Zealand,Jared Rosholt,False,Heavyweight,Other,Soa Palelei,Australian
-Robert Whittaker,Mike Rhodes,2014-06-28,"Auckland, New Zealand", New Zealand,Robert Whittaker,False,Welterweight,Australian,Mike Rhodes,Other
-Jake Matthews,Dashon Johnson,2014-06-28,"Auckland, New Zealand", New Zealand,Jake Matthews,False,Lightweight,Australian,Dashon Johnson,Other
-Richie Vaculik,Roldan Sangcha-an,2014-06-28,"Auckland, New Zealand", New Zealand,Richie Vaculik,False,Flyweight,Australian,Roldan Sangcha-an,Other
-Chris Indich,Vik Grujic,2014-06-28,"Auckland, New Zealand", New Zealand,Vik Grujic,False,Welterweight,Australian,Chris Indich,Other
-Soa Palelei,Ruan Potts,2014-05-10,"Cincinnati, Ohio, USA", USA,Soa Palelei,False,Heavyweight,Australian,Ruan Potts,Other
-Justin Salas,Ben Wall,2014-05-10,"Cincinnati, Ohio, USA", USA,Justin Salas,False,Lightweight,Other,Ben Wall,Australian
-Nordine Taleb,Vik Grujic,2014-04-16,"Quebec City, Quebec, Canada", Canada,Nordine Taleb,False,Middleweight,Other,Vik Grujic,Australian
-Robert Whittaker,Stephen Thompson,2014-02-22,"Las Vegas, Nevada, USA", USA,Stephen Thompson,False,Welterweight,Other,Robert Whittaker,Australian
-Mauricio Rua,James Te Huna,2013-12-06,"Brisbane, Queensland, Australia", Australia,Mauricio Rua,False,Light Heavyweight,Other,James Te Huna,Australian
-Ryan Bader,Anthony Perosh,2013-12-06,"Brisbane, Queensland, Australia", Australia,Ryan Bader,False,Light Heavyweight,Other,Anthony Perosh,Australian
-Pat Barry,Soa Palelei,2013-12-06,"Brisbane, Queensland, Australia", Australia,Soa Palelei,False,Heavyweight,Australian,Pat Barry,Other
-Dylan Andrews,Clint Hester,2013-12-06,"Brisbane, Queensland, Australia", Australia,Clint Hester,False,Middleweight,Other,Dylan Andrews,Australian
-Richie Vaculik,Justin Scoggins,2013-12-06,"Brisbane, Queensland, Australia", Australia,Justin Scoggins,False,Flyweight,Other,Richie Vaculik,Australian
-Ben Wall,Alex Garcia,2013-12-06,"Brisbane, Queensland, Australia", Australia,Alex Garcia,False,Welterweight,Other,Ben Wall,Australian
-George Sotiropoulos,KJ Noons,2013-10-19,"Houston, Texas, USA", USA,KJ Noons,False,Lightweight,Other,George Sotiropoulos,Australian
-Soa Palelei,Nikita Krylov,2013-08-31,"Milwaukee, Wisconsin, USA", USA,Soa Palelei,False,Heavyweight,Australian,Nikita Krylov,Other
-Court McGee,Robert Whittaker,2013-08-28,"Indianapolis, Indiana, USA", USA,Court McGee,False,Welterweight,Other,Robert Whittaker,Australian
-Dylan Andrews,Papy Abedi,2013-08-28,"Indianapolis, Indiana, USA", USA,Dylan Andrews,False,Middleweight,Australian,Papy Abedi,Other
-Vinny Magalhaes,Anthony Perosh,2013-08-03,"Rio de Janeiro, Brazil", Brazil,Anthony Perosh,False,Light Heavyweight,Australian,Vinny Magalhaes,Other
-Junior Dos Santos,Mark Hunt,2013-05-25,"Las Vegas, Nevada, USA", USA,Junior Dos Santos,False,Heavyweight,Other,Mark Hunt,Australian
-Glover Teixeira,James Te Huna,2013-05-25,"Las Vegas, Nevada, USA", USA,Glover Teixeira,False,Light Heavyweight,Other,James Te Huna,Australian
-Colton Smith,Robert Whittaker,2013-05-25,"Las Vegas, Nevada, USA", USA,Robert Whittaker,False,Welterweight,Australian,Colton Smith,Other
-Dylan Andrews,Jimmy Quinlan,2013-04-13,"Las Vegas, Nevada, USA", USA,Dylan Andrews,False,Middleweight,Australian,Jimmy Quinlan,Other
-Stefan Struve,Mark Hunt,2013-03-02,"Saitama, Japan", Japan,Mark Hunt,False,Heavyweight,Australian,Stefan Struve,Other
-James Te Huna,Ryan Jimmo,2013-02-16,"London, England, United Kingdom", United Kingdom,James Te Huna,False,Light Heavyweight,Australian,Ryan Jimmo,Other
-George Sotiropoulos,Ross Pearson,2012-12-14,"Gold Coast, Queensland, Australia", Australia,Ross Pearson,False,Lightweight,Other,George Sotiropoulos,Australian
-Robert Whittaker,Bradley Scott,2012-12-14,"Gold Coast, Queensland, Australia", Australia,Robert Whittaker,True,Welterweight,Australian,Bradley Scott,Other
-Benny Alloway,Manuel Rodriguez,2012-12-14,"Gold Coast, Queensland, Australia", Australia,Benny Alloway,False,Welterweight,Other,Manuel Rodriguez,Australian
-Anthony Perosh,Ryan Jimmo,2012-07-21,"Calgary, Alberta, Canada", Canada,Ryan Jimmo,False,Light Heavyweight,Other,Anthony Perosh,Australian
-James Te Huna,Joey Beltran,2012-07-11,"San Jose, California, USA", USA,James Te Huna,False,Light Heavyweight,Australian,Joey Beltran,Other
-Henry Martinez,Bernardo Magalhaes,2012-06-08,"Sunrise, Florida, USA", USA,Henry Martinez,False,Lightweight,Other,Bernardo Magalhaes,Australian
-James Te Huna,Aaron Rosa,2012-03-02,"Sydney, New South Wales, Australia", Australia,James Te Huna,False,Light Heavyweight,Australian,Aaron Rosa,Other
-Anthony Perosh,Nick Penner,2012-03-02,"Sydney, New South Wales, Australia", Australia,Anthony Perosh,False,Light Heavyweight,Australian,Nick Penner,Other
-Mark Hunt,Cheick Kongo,2012-02-25,"Saitama, Japan", Japan,Mark Hunt,False,Heavyweight,Australian,Cheick Kongo,Other
-Tim Means,Bernardo Magalhaes,2012-02-15,"Omaha, Nebraska, USA", USA,Tim Means,False,Lightweight,Other,Bernardo Magalhaes,Australian
-Cyrille Diabate,Anthony Perosh,2011-11-05,"Birmingham, England, United Kingdom", United Kingdom,Anthony Perosh,False,Light Heavyweight,Australian,Cyrille Diabate,Other
-Ben Rothwell,Mark Hunt,2011-09-24,"Denver, Colorado, USA", USA,Mark Hunt,False,Heavyweight,Australian,Ben Rothwell,Other
-James Te Huna,Ricardo Romero,2011-09-24,"Denver, Colorado, USA", USA,James Te Huna,False,Light Heavyweight,Australian,Ricardo Romero,Other
-George Sotiropoulos,Rafael Dos Anjos,2011-07-02,"Las Vegas, Nevada, USA", USA,Rafael Dos Anjos,False,Lightweight,Other,George Sotiropoulos,Australian
-George Sotiropoulos,Dennis Siver,2011-02-26,"Sydney, New South Wales, Australia", Australia,Dennis Siver,False,Lightweight,Other,George Sotiropoulos,Australian
-Alexander Gustafsson,James Te Huna,2011-02-26,"Sydney, New South Wales, Australia", Australia,Alexander Gustafsson,False,Light Heavyweight,Other,James Te Huna,Australian
-Tom Blackledge,Anthony Perosh,2011-02-26,"Sydney, New South Wales, Australia", Australia,Anthony Perosh,False,Light Heavyweight,Australian,Tom Blackledge,Other
-Mark Hunt,Chris Tuchscherer,2011-02-26,"Sydney, New South Wales, Australia", Australia,Mark Hunt,False,Heavyweight,Australian,Chris Tuchscherer,Other
-George Sotiropoulos,Joe Lauzon,2010-11-20,"Auburn Hills, Michigan, USA", USA,George Sotiropoulos,False,Lightweight,Australian,Joe Lauzon,Other
-Mark Hunt,Sean McCorkle,2010-09-25,"Indianapolis, Indiana, USA", USA,Sean McCorkle,False,Heavyweight,Other,Mark Hunt,Australian
-George Sotiropoulos,Kurt Pellegrino,2010-07-03,"Las Vegas, Nevada, USA", USA,George Sotiropoulos,False,Lightweight,Australian,Kurt Pellegrino,Other
+Ben Sosoli,Marcos Rogerio De Lima,2020-02-22,"Auckland, New Zealand",New Zealand,Marcos Rogerio De Lima,False,Heavyweight,Other,Ben Sosoli,Australian
+Jalin Turner,Joshua Culibao,2020-02-22,"Auckland, New Zealand",New Zealand,Jalin Turner,False,Lightweight,Other,Joshua Culibao,Australian
+Jake Matthews,Emil Meek,2020-02-22,"Auckland, New Zealand",New Zealand,Jake Matthews,False,Welterweight,Australian,Emil Meek,Other
+Callan Potter,Song Kenan,2020-02-22,"Auckland, New Zealand",New Zealand,Song Kenan,False,Welterweight,Other,Callan Potter,Australian
+Juan Adams,Justin Tafa,2020-02-08,"Houston, Texas, USA",Usa,Justin Tafa,False,Heavyweight,Australian,Juan Adams,Other
+Seungwoo Choi,Suman Mokhtarian,2019-12-21,"Busan, South Korea",South Korea,Seungwoo Choi,False,Featherweight,Other,Suman Mokhtarian,Australian
+Max Holloway,Alexander Volkanovski,2019-12-14,"Las Vegas, Nevada, USA",Usa,Alexander Volkanovski,True,Featherweight,Australian,Max Holloway,Other
+Jessica-Rose Clark,Pannie Kianzad,2019-11-09,"Moscow, Moscow, Russia",Russia,Pannie Kianzad,False,Women's Bantamweight,Other,Jessica-Rose Clark,Australian
+Robert Whittaker,Israel Adesanya,2019-10-05,"Melbourne, Victoria, Australia",Australia,Israel Adesanya,True,Middleweight,Other,Robert Whittaker,Australian
+Tai Tuivasa,Serghei Spivac,2019-10-05,"Melbourne, Victoria, Australia",Australia,Serghei Spivac,False,Heavyweight,Other,Tai Tuivasa,Australian
+Justin Tafa,Yorgan De Castro,2019-10-05,"Melbourne, Victoria, Australia",Australia,Yorgan De Castro,False,Heavyweight,Other,Justin Tafa,Australian
+Jake Matthews,Rostem Akman,2019-10-05,"Melbourne, Victoria, Australia",Australia,Jake Matthews,False,Welterweight,Australian,Rostem Akman,Other
+Callan Potter,Maki Pitolo,2019-10-05,"Melbourne, Victoria, Australia",Australia,Callan Potter,False,Welterweight,Australian,Maki Pitolo,Other
+Brad Riddell,Jamie Mullarkey,2019-10-05,"Melbourne, Victoria, Australia",Australia,Brad Riddell,False,Lightweight,Other,Jamie Mullarkey,Australian
+Nadia Kassem,Ji Yeon Kim,2019-10-05,"Melbourne, Victoria, Australia",Australia,Ji Yeon Kim,False,Women's Flyweight,Other,Nadia Kassem,Australian
+Misha Cirkunov,Jimmy Crute,2019-09-14,"Vancouver, British Columbia, Canada",Canada,Misha Cirkunov,False,Light Heavyweight,Other,Jimmy Crute,Australian
+Tai Tuivasa,Blagoy Ivanov,2019-06-08,"Chicago, Illinois, USA",Usa,Blagoy Ivanov,False,Heavyweight,Other,Tai Tuivasa,Australian
+Jose Aldo,Alexander Volkanovski,2019-05-11,"Rio de Janeiro, Rio de Janeiro, Brazil",Brazil,Alexander Volkanovski,False,Featherweight,Australian,Jose Aldo,Other
+Montana De La Rosa,Nadia Kassem,2019-02-09,"Melbourne, Victoria, Australia",Australia,Montana De La Rosa,False,Women's Flyweight,Other,Nadia Kassem,Australian
+Jimmy Crute,Sam Alvey,2019-02-09,"Melbourne, Victoria, Australia",Australia,Jimmy Crute,False,Light Heavyweight,Australian,Sam Alvey,Other
+Callan Potter,Jalin Turner,2019-02-09,"Melbourne, Victoria, Australia",Australia,Jalin Turner,False,Lightweight,Other,Callan Potter,Australian
+Chad Mendes,Alexander Volkanovski,2018-12-29,"Los Angeles, California, USA",Usa,Alexander Volkanovski,False,Featherweight,Australian,Chad Mendes,Other
+Junior Dos Santos,Tai Tuivasa,2018-12-01,"Adelaide, South Australia, Australia",Australia,Junior Dos Santos,False,Heavyweight,Other,Tai Tuivasa,Australian
+Mauricio Rua,Tyson Pedro,2018-12-01,"Adelaide, South Australia, Australia",Australia,Mauricio Rua,False,Light Heavyweight,Other,Tyson Pedro,Australian
+Mark Hunt,Justin Willis,2018-12-01,"Adelaide, South Australia, Australia",Australia,Justin Willis,False,Heavyweight,Other,Mark Hunt,Australian
+Jake Matthews,Anthony Rocco Martin,2018-12-01,"Adelaide, South Australia, Australia",Australia,Anthony Rocco Martin,False,Welterweight,Other,Jake Matthews,Australian
+Suman Mokhtarian,Sodiq Yusuff,2018-12-01,"Adelaide, South Australia, Australia",Australia,Sodiq Yusuff,False,Featherweight,Other,Suman Mokhtarian,Australian
+Jimmy Crute,Paul Craig,2018-12-01,"Adelaide, South Australia, Australia",Australia,Jimmy Crute,False,Light Heavyweight,Australian,Paul Craig,Other
+Wilson Reis,Ben Nguyen,2018-12-01,"Adelaide, South Australia, Australia",Australia,Wilson Reis,False,Flyweight,Other,Ben Nguyen,Australian
+Livinha Souza,Alex Chambers,2018-09-22,"Sao Paulo, Sao Paulo, Brazil",Brazil,Livinha Souza,False,Women's Strawweight,Other,Alex Chambers,Australian
+Mark Hunt,Aleksei Oleinik,2018-09-15,"Moscow, Moscow, Russia",Russia,Aleksei Oleinik,False,Heavyweight,Other,Mark Hunt,Australian
+Darren Elkins,Alexander Volkanovski,2018-07-14,"Boise, Idaho, USA",Usa,Alexander Volkanovski,False,Featherweight,Australian,Darren Elkins,Other
+Ovince Saint Preux,Tyson Pedro,2018-06-23,"Kallang, Singapore",Singapore,Ovince Saint Preux,False,Light Heavyweight,Other,Tyson Pedro,Australian
+Jessica-Rose Clark,Jessica Eye,2018-06-23,"Kallang, Singapore",Singapore,Jessica Eye,False,Women's Flyweight,Other,Jessica-Rose Clark,Australian
+Shinsho Anzai,Jake Matthews,2018-06-23,"Kallang, Singapore",Singapore,Jake Matthews,False,Welterweight,Australian,Shinsho Anzai,Other
+Robert Whittaker,Yoel Romero,2018-06-09,"Chicago, Illinois, USA",Usa,Robert Whittaker,False,Middleweight,Australian,Yoel Romero,Other
+Andrei Arlovski,Tai Tuivasa,2018-06-09,"Chicago, Illinois, USA",Usa,Tai Tuivasa,False,Heavyweight,Australian,Andrei Arlovski,Other
+Daniel Kelly,Tom Breese,2018-05-27,"Liverpool, England, United Kingdom",United Kingdom,Tom Breese,False,Middleweight,Other,Daniel Kelly,Australian
+Bec Rawlings,Ashlee Evans-Smith,2018-04-07,"Brooklyn, New York, USA",Usa,Ashlee Evans-Smith,False,Women's Flyweight,Other,Bec Rawlings,Australian
+Mark Hunt,Curtis Blaydes,2018-02-10,"Perth, Western Australia, Australia",Australia,Curtis Blaydes,False,Heavyweight,Other,Mark Hunt,Australian
+Tai Tuivasa,Cyril Asker,2018-02-10,"Perth, Western Australia, Australia",Australia,Tai Tuivasa,False,Heavyweight,Australian,Cyril Asker,Other
+Jake Matthews,Li Jingliang,2018-02-10,"Perth, Western Australia, Australia",Australia,Jake Matthews,False,Welterweight,Australian,Li Jingliang,Other
+Tyson Pedro,Saparbeg Safarov,2018-02-10,"Perth, Western Australia, Australia",Australia,Tyson Pedro,False,Light Heavyweight,Australian,Saparbeg Safarov,Other
+Damien Brown,Dong Hyun Ma,2018-02-10,"Perth, Western Australia, Australia",Australia,Dong Hyun Ma,False,Lightweight,Other,Damien Brown,Australian
+Rob Wilkinson,Israel Adesanya,2018-02-10,"Perth, Western Australia, Australia",Australia,Israel Adesanya,False,Middleweight,Other,Rob Wilkinson,Australian
+Alexander Volkanovski,Jeremy Kennedy,2018-02-10,"Perth, Western Australia, Australia",Australia,Alexander Volkanovski,False,Featherweight,Australian,Jeremy Kennedy,Other
+Jussier Formiga,Ben Nguyen,2018-02-10,"Perth, Western Australia, Australia",Australia,Jussier Formiga,False,Flyweight,Other,Ben Nguyen,Australian
+Paige VanZant,Jessica-Rose Clark,2018-01-14,"St. Louis, Missouri, USA",Usa,Jessica-Rose Clark,False,Women's Flyweight,Australian,Paige VanZant,Other
+Bec Rawlings,Jessica-Rose Clark,2017-11-18,"Sydney, New South Wales, Australia",Australia,Jessica-Rose Clark,False,Women's Flyweight,Australian,Bec Rawlings,Australian
+Jake Matthews,Bojan Velickovic,2017-11-18,"Sydney, New South Wales, Australia",Australia,Jake Matthews,False,Welterweight,Australian,Bojan Velickovic,Other
+Elias Theodorou,Daniel Kelly,2017-11-18,"Sydney, New South Wales, Australia",Australia,Elias Theodorou,False,Middleweight,Other,Daniel Kelly,Australian
+Alexander Volkanovski,Shane Young,2017-11-18,"Sydney, New South Wales, Australia",Australia,Alexander Volkanovski,False,Catch Weight,Australian,Shane Young,Other
+Ryan Benoit,Ashkan Mokhtarian,2017-11-18,"Sydney, New South Wales, Australia",Australia,Ryan Benoit,False,Flyweight,Other,Ashkan Mokhtarian,Australian
+Rashad Coulter,Tai Tuivasa,2017-11-18,"Sydney, New South Wales, Australia",Australia,Tai Tuivasa,False,Heavyweight,Australian,Rashad Coulter,Other
+Damien Brown,Frank Camacho,2017-11-18,"Sydney, New South Wales, Australia",Australia,Frank Camacho,False,Lightweight,Other,Damien Brown,Australian
+Alex Chambers,Nadia Kassem,2017-11-18,"Sydney, New South Wales, Australia",Australia,Nadia Kassem,False,Women's Strawweight,Australian,Alex Chambers,Australian
+Ilir Latifi,Tyson Pedro,2017-09-09,"Edmonton, Alberta, Canada",Canada,Ilir Latifi,False,Light Heavyweight,Other,Tyson Pedro,Australian
+Siyar Bahadurzada,Rob Wilkinson,2017-09-02,"Rotterdam, Zuid-Holland, Netherlands",Netherlands,Siyar Bahadurzada,False,Middleweight,Other,Rob Wilkinson,Australian
+Yoel Romero,Robert Whittaker,2017-07-08,"Las Vegas, Nevada, USA",Usa,Robert Whittaker,True,Middleweight,Australian,Yoel Romero,Other
+Derrick Lewis,Mark Hunt,2017-06-10,"Auckland, New Zealand",New Zealand,Mark Hunt,False,Heavyweight,Australian,Derrick Lewis,Other
+Derek Brunson,Daniel Kelly,2017-06-10,"Auckland, New Zealand",New Zealand,Derek Brunson,False,Middleweight,Other,Daniel Kelly,Australian
+Tim Elliott,Ben Nguyen,2017-06-10,"Auckland, New Zealand",New Zealand,Ben Nguyen,False,Flyweight,Australian,Tim Elliott,Other
+Alexander Volkanovski,Mizuto Hirota,2017-06-10,"Auckland, New Zealand",New Zealand,Alexander Volkanovski,False,Featherweight,Australian,Mizuto Hirota,Other
+Damien Brown,Vinc Pichel,2017-06-10,"Auckland, New Zealand",New Zealand,Vinc Pichel,False,Lightweight,Other,Damien Brown,Australian
+John Moraga,Ashkan Mokhtarian,2017-06-10,"Auckland, New Zealand",New Zealand,John Moraga,False,Flyweight,Other,Ashkan Mokhtarian,Australian
+Jacare Souza,Robert Whittaker,2017-04-15,"Kansas City, Missouri, USA",Usa,Robert Whittaker,False,Middleweight,Australian,Jacare Souza,Other
+Rashad Evans,Daniel Kelly,2017-03-04,"Las Vegas, Nevada, USA",Usa,Daniel Kelly,False,Middleweight,Australian,Rashad Evans,Other
+Alistair Overeem,Mark Hunt,2017-03-04,"Las Vegas, Nevada, USA",Usa,Alistair Overeem,False,Heavyweight,Other,Mark Hunt,Australian
+Tyson Pedro,Paul Craig,2017-03-04,"Las Vegas, Nevada, USA",Usa,Tyson Pedro,False,Light Heavyweight,Australian,Paul Craig,Other
+Tecia Torres,Bec Rawlings,2017-02-04,"Houston, Texas, USA",Usa,Tecia Torres,False,Women's Strawweight,Other,Bec Rawlings,Australian
+Dong Hyun Ma,Brendan O'Reilly,2016-12-03,"Las Vegas, Nevada, USA",Usa,Dong Hyun Ma,False,Lightweight,Other,Brendan O'Reilly,Australian
+Robert Whittaker,Derek Brunson,2016-11-26,"Melbourne, Victoria, Australia",Australia,Robert Whittaker,False,Middleweight,Australian,Derek Brunson,Other
+Jake Matthews,Andrew Holbrook,2016-11-26,"Melbourne, Victoria, Australia",Australia,Andrew Holbrook,False,Lightweight,Other,Jake Matthews,Australian
+Yusuke Kasuya,Alexander Volkanovski,2016-11-26,"Melbourne, Victoria, Australia",Australia,Alexander Volkanovski,False,Lightweight,Australian,Yusuke Kasuya,Other
+Khalil Rountree Jr.,Tyson Pedro,2016-11-26,"Melbourne, Victoria, Australia",Australia,Tyson Pedro,False,Light Heavyweight,Australian,Khalil Rountree Jr.,Other
+Daniel Kelly,Chris Camozzi,2016-11-26,"Melbourne, Victoria, Australia",Australia,Daniel Kelly,False,Middleweight,Australian,Chris Camozzi,Other
+Damien Brown,Jon Tuck,2016-11-26,"Melbourne, Victoria, Australia",Australia,Damien Brown,False,Lightweight,Australian,Jon Tuck,Other
+Ben Nguyen,Geane Herrera,2016-11-26,"Melbourne, Victoria, Australia",Australia,Ben Nguyen,False,Flyweight,Australian,Geane Herrera,Other
+Paige VanZant,Bec Rawlings,2016-08-27,"Vancouver, British Columbia, Canada",Canada,Paige VanZant,False,Women's Strawweight,Other,Bec Rawlings,Australian
+Cesar Arzamendia,Damien Brown,2016-07-30,"Atlanta, Georgia, USA",Usa,Damien Brown,False,Lightweight,Australian,Cesar Arzamendia,Other
+Louis Smolka,Ben Nguyen,2016-07-13,"Sioux Falls, South Dakota, USA",Usa,Louis Smolka,False,Flyweight,Other,Ben Nguyen,Australian
+Jake Matthews,Kevin Lee,2016-07-08,"Las Vegas, Nevada, USA",Usa,Kevin Lee,False,Lightweight,Other,Jake Matthews,Australian
+Robert Whittaker,Rafael Natal,2016-04-23,"Las Vegas, Nevada, USA",Usa,Robert Whittaker,False,Middleweight,Australian,Rafael Natal,Other
+Mark Hunt,Frank Mir,2016-03-19,"Brisbane, Queensland, Australia",Australia,Mark Hunt,False,Heavyweight,Australian,Frank Mir,Other
+Jake Matthews,Johnny Case,2016-03-19,"Brisbane, Queensland, Australia",Australia,Jake Matthews,False,Lightweight,Australian,Johnny Case,Other
+Daniel Kelly,Antonio Carlos Junior,2016-03-19,"Brisbane, Queensland, Australia",Australia,Daniel Kelly,False,Middleweight,Australian,Antonio Carlos Junior,Other
+James Te Huna,Steve Bosse,2016-03-19,"Brisbane, Queensland, Australia",Australia,Steve Bosse,False,Light Heavyweight,Other,James Te Huna,Australian
+Bec Rawlings,Seohee Ham,2016-03-19,"Brisbane, Queensland, Australia",Australia,Bec Rawlings,False,Women's Strawweight,Australian,Seohee Ham,Other
+Brendan O'Reilly,Alan Jouban,2016-03-19,"Brisbane, Queensland, Australia",Australia,Alan Jouban,False,Welterweight,Other,Brendan O'Reilly,Australian
+Alan Patrick,Damien Brown,2016-03-19,"Brisbane, Queensland, Australia",Australia,Alan Patrick,False,Lightweight,Other,Damien Brown,Australian
+Mark Hunt,Antonio Silva,2015-11-14,"Melbourne, Victoria, Australia",Australia,Mark Hunt,False,Heavyweight,Australian,Antonio Silva,Other
+Uriah Hall,Robert Whittaker,2015-11-14,"Melbourne, Victoria, Australia",Australia,Robert Whittaker,False,Middleweight,Australian,Uriah Hall,Other
+Jake Matthews,Akbarh Arreola,2015-11-14,"Melbourne, Victoria, Australia",Australia,Jake Matthews,False,Lightweight,Australian,Akbarh Arreola,Other
+Anthony Perosh,Gian Villante,2015-11-14,"Melbourne, Victoria, Australia",Australia,Gian Villante,False,Light Heavyweight,Other,Anthony Perosh,Australian
+Richie Vaculik,Danny Martinez,2015-11-14,"Melbourne, Victoria, Australia",Australia,Danny Martinez,False,Flyweight,Other,Richie Vaculik,Australian
+Daniel Kelly,Steve Montgomery,2015-11-14,"Melbourne, Victoria, Australia",Australia,Daniel Kelly,False,Middleweight,Australian,Steve Montgomery,Other
+Ben Nguyen,Ryan Benoit,2015-11-14,"Melbourne, Victoria, Australia",Australia,Ben Nguyen,False,Flyweight,Australian,Ryan Benoit,Other
+Paige VanZant,Alex Chambers,2015-09-05,"Las Vegas, Nevada, USA",Usa,Paige VanZant,False,Women's Strawweight,Other,Alex Chambers,Australian
+Antonio Silva,Soa Palelei,2015-08-01,"Rio de Janeiro, Rio de Janeiro, Brazil",Brazil,Antonio Silva,False,Heavyweight,Other,Soa Palelei,Australian
+Stipe Miocic,Mark Hunt,2015-05-09,"Adelaide, South Australia, Australia",Australia,Stipe Miocic,False,Heavyweight,Other,Mark Hunt,Australian
+Brad Tavares,Robert Whittaker,2015-05-09,"Adelaide, South Australia, Australia",Australia,Robert Whittaker,False,Middleweight,Australian,Brad Tavares,Other
+Anthony Perosh,Sean O'Connell,2015-05-09,"Adelaide, South Australia, Australia",Australia,Sean O'Connell,False,Light Heavyweight,Other,Anthony Perosh,Australian
+Jake Matthews,James Vick,2015-05-09,"Adelaide, South Australia, Australia",Australia,James Vick,False,Lightweight,Other,Jake Matthews,Australian
+Daniel Kelly,Sam Alvey,2015-05-09,"Adelaide, South Australia, Australia",Australia,Sam Alvey,False,Middleweight,Other,Daniel Kelly,Australian
+Bec Rawlings,Lisa Ellis,2015-05-09,"Adelaide, South Australia, Australia",Australia,Bec Rawlings,False,Women's Strawweight,Australian,Lisa Ellis,Other
+Dylan Andrews,Bradley Scott,2015-05-09,"Adelaide, South Australia, Australia",Australia,Bradley Scott,False,Middleweight,Other,Dylan Andrews,Australian
+Alex Chambers,Kailin Curran,2015-05-09,"Adelaide, South Australia, Australia",Australia,Alex Chambers,False,Women's Strawweight,Australian,Kailin Curran,Other
+Vik Grujic,Brendan O'Reilly,2015-05-09,"Adelaide, South Australia, Australia",Australia,Brendan O'Reilly,False,Welterweight,Australian,Vik Grujic,Australian
+Alptekin Ozkilic,Ben Nguyen,2015-05-09,"Adelaide, South Australia, Australia",Australia,Ben Nguyen,False,Flyweight,Australian,Alptekin Ozkilic,Other
+Daniel Kelly,Patrick Walsh,2015-02-14,"Broomfield, Colorado, USA",Usa,Daniel Kelly,False,Middleweight,Australian,Patrick Walsh,Other
+Bec Rawlings,Heather Jo Clark,2014-12-12,"Las Vegas, Nevada, USA",Usa,Heather Jo Clark,False,Women's Strawweight,Other,Bec Rawlings,Australian
+Aisling Daly,Alex Chambers,2014-12-12,"Las Vegas, Nevada, USA",Usa,Aisling Daly,False,Women's Strawweight,Other,Alex Chambers,Australian
+Fabricio Werdum,Mark Hunt,2014-11-15,"Mexico City, Distrito Federal, Mexico",Mexico,Fabricio Werdum,True,Heavyweight,Other,Mark Hunt,Australian
+Robert Whittaker,Clint Hester,2014-11-07,"Sydney, New South Wales, Australia",Australia,Robert Whittaker,False,Middleweight,Australian,Clint Hester,Other
+Soa Palelei,Walt Harris,2014-11-07,"Sydney, New South Wales, Australia",Australia,Soa Palelei,False,Heavyweight,Australian,Walt Harris,Other
+Jake Matthews,Vagner Rocha,2014-11-07,"Sydney, New South Wales, Australia",Australia,Jake Matthews,False,Lightweight,Australian,Vagner Rocha,Other
+Anthony Perosh,Guto Inocente,2014-11-07,"Sydney, New South Wales, Australia",Australia,Anthony Perosh,False,Light Heavyweight,Australian,Guto Inocente,Other
+Dylan Andrews,Sam Alvey,2014-11-07,"Sydney, New South Wales, Australia",Australia,Sam Alvey,False,Middleweight,Other,Dylan Andrews,Australian
+Richie Vaculik,Louis Smolka,2014-11-07,"Sydney, New South Wales, Australia",Australia,Louis Smolka,False,Flyweight,Other,Richie Vaculik,Australian
+Vik Grujic,Chris Clements,2014-11-07,"Sydney, New South Wales, Australia",Australia,Chris Clements,False,Welterweight,Other,Vik Grujic,Australian
+Luke Zachrich,Daniel Kelly,2014-11-07,"Sydney, New South Wales, Australia",Australia,Daniel Kelly,False,Middleweight,Australian,Luke Zachrich,Other
+Mark Hunt,Roy Nelson,2014-09-20,"Saitama, Japan",Japan,Mark Hunt,False,Heavyweight,Australian,Roy Nelson,Other
+Zhang Lipeng,Brendan O'Reilly,2014-08-23,"Macau, China",China,Zhang Lipeng,False,Lightweight,Other,Brendan O'Reilly,Australian
+James Te Huna,Nate Marquardt,2014-06-28,"Auckland, New Zealand",New Zealand,Nate Marquardt,False,Middleweight,Other,James Te Huna,Australian
+Soa Palelei,Jared Rosholt,2014-06-28,"Auckland, New Zealand",New Zealand,Jared Rosholt,False,Heavyweight,Other,Soa Palelei,Australian
+Robert Whittaker,Mike Rhodes,2014-06-28,"Auckland, New Zealand",New Zealand,Robert Whittaker,False,Welterweight,Australian,Mike Rhodes,Other
+Jake Matthews,Dashon Johnson,2014-06-28,"Auckland, New Zealand",New Zealand,Jake Matthews,False,Lightweight,Australian,Dashon Johnson,Other
+Richie Vaculik,Roldan Sangcha-an,2014-06-28,"Auckland, New Zealand",New Zealand,Richie Vaculik,False,Flyweight,Australian,Roldan Sangcha-an,Other
+Chris Indich,Vik Grujic,2014-06-28,"Auckland, New Zealand",New Zealand,Vik Grujic,False,Welterweight,Australian,Chris Indich,Other
+Soa Palelei,Ruan Potts,2014-05-10,"Cincinnati, Ohio, USA",Usa,Soa Palelei,False,Heavyweight,Australian,Ruan Potts,Other
+Justin Salas,Ben Wall,2014-05-10,"Cincinnati, Ohio, USA",Usa,Justin Salas,False,Lightweight,Other,Ben Wall,Australian
+Nordine Taleb,Vik Grujic,2014-04-16,"Quebec City, Quebec, Canada",Canada,Nordine Taleb,False,Middleweight,Other,Vik Grujic,Australian
+Robert Whittaker,Stephen Thompson,2014-02-22,"Las Vegas, Nevada, USA",Usa,Stephen Thompson,False,Welterweight,Other,Robert Whittaker,Australian
+Mauricio Rua,James Te Huna,2013-12-06,"Brisbane, Queensland, Australia",Australia,Mauricio Rua,False,Light Heavyweight,Other,James Te Huna,Australian
+Ryan Bader,Anthony Perosh,2013-12-06,"Brisbane, Queensland, Australia",Australia,Ryan Bader,False,Light Heavyweight,Other,Anthony Perosh,Australian
+Pat Barry,Soa Palelei,2013-12-06,"Brisbane, Queensland, Australia",Australia,Soa Palelei,False,Heavyweight,Australian,Pat Barry,Other
+Dylan Andrews,Clint Hester,2013-12-06,"Brisbane, Queensland, Australia",Australia,Clint Hester,False,Middleweight,Other,Dylan Andrews,Australian
+Richie Vaculik,Justin Scoggins,2013-12-06,"Brisbane, Queensland, Australia",Australia,Justin Scoggins,False,Flyweight,Other,Richie Vaculik,Australian
+Ben Wall,Alex Garcia,2013-12-06,"Brisbane, Queensland, Australia",Australia,Alex Garcia,False,Welterweight,Other,Ben Wall,Australian
+George Sotiropoulos,KJ Noons,2013-10-19,"Houston, Texas, USA",Usa,KJ Noons,False,Lightweight,Other,George Sotiropoulos,Australian
+Soa Palelei,Nikita Krylov,2013-08-31,"Milwaukee, Wisconsin, USA",Usa,Soa Palelei,False,Heavyweight,Australian,Nikita Krylov,Other
+Court McGee,Robert Whittaker,2013-08-28,"Indianapolis, Indiana, USA",Usa,Court McGee,False,Welterweight,Other,Robert Whittaker,Australian
+Dylan Andrews,Papy Abedi,2013-08-28,"Indianapolis, Indiana, USA",Usa,Dylan Andrews,False,Middleweight,Australian,Papy Abedi,Other
+Vinny Magalhaes,Anthony Perosh,2013-08-03,"Rio de Janeiro, Brazil",Brazil,Anthony Perosh,False,Light Heavyweight,Australian,Vinny Magalhaes,Other
+Junior Dos Santos,Mark Hunt,2013-05-25,"Las Vegas, Nevada, USA",Usa,Junior Dos Santos,False,Heavyweight,Other,Mark Hunt,Australian
+Glover Teixeira,James Te Huna,2013-05-25,"Las Vegas, Nevada, USA",Usa,Glover Teixeira,False,Light Heavyweight,Other,James Te Huna,Australian
+Colton Smith,Robert Whittaker,2013-05-25,"Las Vegas, Nevada, USA",Usa,Robert Whittaker,False,Welterweight,Australian,Colton Smith,Other
+Dylan Andrews,Jimmy Quinlan,2013-04-13,"Las Vegas, Nevada, USA",Usa,Dylan Andrews,False,Middleweight,Australian,Jimmy Quinlan,Other
+Stefan Struve,Mark Hunt,2013-03-02,"Saitama, Japan",Japan,Mark Hunt,False,Heavyweight,Australian,Stefan Struve,Other
+James Te Huna,Ryan Jimmo,2013-02-16,"London, England, United Kingdom",United Kingdom,James Te Huna,False,Light Heavyweight,Australian,Ryan Jimmo,Other
+George Sotiropoulos,Ross Pearson,2012-12-14,"Gold Coast, Queensland, Australia",Australia,Ross Pearson,False,Lightweight,Other,George Sotiropoulos,Australian
+Robert Whittaker,Bradley Scott,2012-12-14,"Gold Coast, Queensland, Australia",Australia,Robert Whittaker,True,Welterweight,Australian,Bradley Scott,Other
+Benny Alloway,Manuel Rodriguez,2012-12-14,"Gold Coast, Queensland, Australia",Australia,Benny Alloway,False,Welterweight,Other,Manuel Rodriguez,Australian
+Anthony Perosh,Ryan Jimmo,2012-07-21,"Calgary, Alberta, Canada",Canada,Ryan Jimmo,False,Light Heavyweight,Other,Anthony Perosh,Australian
+James Te Huna,Joey Beltran,2012-07-11,"San Jose, California, USA",Usa,James Te Huna,False,Light Heavyweight,Australian,Joey Beltran,Other
+Henry Martinez,Bernardo Magalhaes,2012-06-08,"Sunrise, Florida, USA",Usa,Henry Martinez,False,Lightweight,Other,Bernardo Magalhaes,Australian
+James Te Huna,Aaron Rosa,2012-03-02,"Sydney, New South Wales, Australia",Australia,James Te Huna,False,Light Heavyweight,Australian,Aaron Rosa,Other
+Anthony Perosh,Nick Penner,2012-03-02,"Sydney, New South Wales, Australia",Australia,Anthony Perosh,False,Light Heavyweight,Australian,Nick Penner,Other
+Mark Hunt,Cheick Kongo,2012-02-25,"Saitama, Japan",Japan,Mark Hunt,False,Heavyweight,Australian,Cheick Kongo,Other
+Tim Means,Bernardo Magalhaes,2012-02-15,"Omaha, Nebraska, USA",Usa,Tim Means,False,Lightweight,Other,Bernardo Magalhaes,Australian
+Cyrille Diabate,Anthony Perosh,2011-11-05,"Birmingham, England, United Kingdom",United Kingdom,Anthony Perosh,False,Light Heavyweight,Australian,Cyrille Diabate,Other
+Ben Rothwell,Mark Hunt,2011-09-24,"Denver, Colorado, USA",Usa,Mark Hunt,False,Heavyweight,Australian,Ben Rothwell,Other
+James Te Huna,Ricardo Romero,2011-09-24,"Denver, Colorado, USA",Usa,James Te Huna,False,Light Heavyweight,Australian,Ricardo Romero,Other
+George Sotiropoulos,Rafael Dos Anjos,2011-07-02,"Las Vegas, Nevada, USA",Usa,Rafael Dos Anjos,False,Lightweight,Other,George Sotiropoulos,Australian
+George Sotiropoulos,Dennis Siver,2011-02-26,"Sydney, New South Wales, Australia",Australia,Dennis Siver,False,Lightweight,Other,George Sotiropoulos,Australian
+Alexander Gustafsson,James Te Huna,2011-02-26,"Sydney, New South Wales, Australia",Australia,Alexander Gustafsson,False,Light Heavyweight,Other,James Te Huna,Australian
+Tom Blackledge,Anthony Perosh,2011-02-26,"Sydney, New South Wales, Australia",Australia,Anthony Perosh,False,Light Heavyweight,Australian,Tom Blackledge,Other
+Mark Hunt,Chris Tuchscherer,2011-02-26,"Sydney, New South Wales, Australia",Australia,Mark Hunt,False,Heavyweight,Australian,Chris Tuchscherer,Other
+George Sotiropoulos,Joe Lauzon,2010-11-20,"Auburn Hills, Michigan, USA",Usa,George Sotiropoulos,False,Lightweight,Australian,Joe Lauzon,Other
+Mark Hunt,Sean McCorkle,2010-09-25,"Indianapolis, Indiana, USA",Usa,Sean McCorkle,False,Heavyweight,Other,Mark Hunt,Australian
+George Sotiropoulos,Kurt Pellegrino,2010-07-03,"Las Vegas, Nevada, USA",Usa,George Sotiropoulos,False,Lightweight,Australian,Kurt Pellegrino,Other
 Muhammad Naimov,Kaan Ofli,2025-02-02,"Riyadh, Riyadh, Saudi Arabia",Saudi Arabia,Muhammad Naimov,False,Featherweight,Other,Kaan Ofli,Australian
 Tallison Teixeira,Justin Tafa,2025-02-09,"Sydney, New South Wales, Australia",Australia,Tallison Teixeira,False,Heavyweight,Other,Justin Tafa,Australian
 Jimmy Crute,Rodolfo Bellato,2025-02-09,"Sydney, New South Wales, Australia",Australia,Jimmy Crute,False,Light Heavyweight,Australian,Rodolfo Bellato,Other
@@ -273,16 +302,3 @@ Tom Nolan,Charlie Campbell,2025-09-28,"Perth, Western Australia, Australia",Aust
 Jamie Mullarkey,Rolando Bedoya,2025-09-28,"Perth, Western Australia, Australia",Australia,Jamie Mullarkey,False,Lightweight,Australian,Rolando Bedoya,Other
 Colby Thicknesse,Josias Musasa,2025-09-28,"Perth, Western Australia, Australia",Australia,Colby Thicknesse,False,Bantamweight,Australian,Josias Musasa,Other
 Brando Pericic,Elisha Ellison,2025-09-28,"Perth, Western Australia, Australia",Australia,Brando Pericic,False,Heavyweight,Australian,Elisha Ellison,Other
-
-
-
-
-
-
-
-
-
-
-
-
-

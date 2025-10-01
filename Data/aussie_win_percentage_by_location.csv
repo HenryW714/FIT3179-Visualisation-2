@@ -1,17 +1,18 @@
 Country,TotalFights,Wins,Losses,WinPercentage
-Australia,112,57,55,50.89
-Brazil,5,2,3,40.0
-Canada,6,2,4,33.33
+Country,TotalFights,Wins,Losses,WinPercentage
+Australia,120,63,57,52.5
+Brazil,6,2,4,33.33
+Canada,7,2,5,28.57
 China,1,0,1,0.0
 France,2,1,1,50.0
 Japan,3,3,0,100.0
 Mexico,2,0,2,0.0
 Netherlands,1,0,1,0.0
 New Zealand,16,8,8,50.0
-Russia,1,0,1,0.0
+Russia,2,0,2,0.0
 Saudi Arabia,2,1,1,50.0
-Singapore,6,4,2,66.67
+Singapore,7,4,3,57.14
 South Korea,1,0,1,0.0
 United Arab Emirates,12,6,6,50.0
-United Kingdom,3,2,1,66.67
-United States of America,101,61,40,60.4
+United Kingdom,4,2,2,50.0
+United States of America,117,68,49,58.12
