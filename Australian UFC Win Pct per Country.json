@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Australian UFC Fighters Win Percentage By Country (2010-2025)",
+  "width": 800,
+  "height": 400,
+  "projection": {"type": "equalEarth"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/HenryW714/FIT3179-Visualisation-2/refs/heads/main/Data/ne_110m.json",
+    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.NAME",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/HenryW714/FIT3179-Visualisation-2/refs/heads/main/Data/aussie_win_percentage_by_location.csv"
+        },
+        "key": "Country",
+        "fields": ["WinPercentage"]
+      }
+    },
+    {
+      "calculate": "datum.WinPercentage == null ? -1 : datum.WinPercentage",
+      "as": "WinPercentage_filled"
+    }
+  ],
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {
+      "field": "WinPercentage_filled",
+      "type": "quantitative",
+      "scale": {"domain": [0, 100], "scheme": "greenblue", "domainMin": 0},
+      "legend": {"title": "Win %"},
+      "condition": {
+        "test": "datum.WinPercentage_filled == -1",
+        "value": "lightgrey"
+      }
+    },
+    "tooltip": [
+      {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+      {"field": "WinPercentage", "type": "quantitative", "title": "Win %"}
+    ]
+  },
+  "config": {}
+}
