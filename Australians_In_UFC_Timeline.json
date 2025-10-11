@@ -1,0 +1,277 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Australian Fighters in The UFC Throughout the Years",
+  "width": 800,
+  "height": 400,
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/HenryW714/FIT3179-Visualisation-2/refs/heads/main/Data/aus_active_fighters_per_year.csv"
+      },
+      "mark": "line",
+      "encoding": {
+        "x": {"field": "Year", "type": "ordinal", "title": "Year"},
+        "y": {
+          "field": "AustralianFighters",
+          "type": "quantitative",
+          "title": "Number of Active Fighters"
+        },
+        "tooltip": [
+          {"field": "Year", "type": "ordinal"},
+          {"field": "AustralianFighters", "type": "quantitative"}
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/HenryW714/FIT3179-Visualisation-2/refs/heads/main/Data/aus_active_fighters_per_year.csv"
+      },
+      "mark": {"type": "line", "point": true},
+      "encoding": {
+        "x": {"field": "Year", "type": "ordinal", "title": "Year"},
+        "y": {
+          "field": "AustralianFighters",
+          "type": "quantitative",
+          "title": "Number of Active Fighters"
+        },
+        "tooltip": [
+          {"field": "Year", "type": "ordinal"},
+          {"field": "AustralianFighters", "type": "quantitative"}
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/HenryW714/FIT3179-Visualisation-2/refs/heads/main/Data/Australian_Fighter_Active_Years_expanded.csv"
+      },
+      "transform": [
+        {
+          "filter": "selected_fighter != '' && test(lower(selected_fighter), lower(datum.Fighter))"
+        }
+      ],
+      "mark": {
+        "type": "line",
+        "color": "green",
+        "strokeWidth": 3,
+        "point": {"filled": true, "size": 100, "color": "teal"}
+      },
+      "encoding": {
+        "x": {"field": "Year", "type": "ordinal"},
+        "y": {"value": 1},
+        "tooltip": [
+          {"field": "Fighter", "type": "nominal"},
+          {"field": "FirstYear", "type": "ordinal"},
+          {"field": "LastYear", "type": "ordinal"}
+        ]
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "Year": "2016",
+            "AustralianFighters": 11,
+            "label": "Volkanovski's UFC Debut"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "dx": 5,
+        "dy": -10,
+        "fontSize": 13,
+        "color": "black"
+      },
+      "encoding": {
+        "x": {"field": "Year", "type": "ordinal"},
+        "y": {"field": "AustralianFighters", "type": "quantitative"},
+        "text": {"field": "label"}
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "Year": "2012",
+            "AustralianFighters": 6,
+            "label": "Australian Fighters Shine on TUF"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 5,
+        "dy": -10,
+        "fontSize": 13,
+        "color": "black"
+      },
+      "encoding": {
+        "x": {"field": "Year", "type": "ordinal"},
+        "y": {"field": "AustralianFighters", "type": "quantitative"},
+        "text": {"field": "label"}
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "Year": "2012",
+            "AustralianFighters": 4.8,
+            "label": "and Whittaker signs for the UFC"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 5,
+        "dy": -10,
+        "fontSize": 13,
+        "color": "black"
+      },
+      "encoding": {
+        "x": {"field": "Year", "type": "ordinal"},
+        "y": {"field": "AustralianFighters", "type": "quantitative"},
+        "text": {"field": "label"}
+      }
+    },
+    {
+      "layer": [
+        {
+          "data": {
+            "values": [
+              {
+                "Year": "2019",
+                "AustralianFighters": 19,
+                "label": "Volkanovski wins First Championship",
+                "textY": 17
+              }
+            ]
+          },
+          "mark": {
+            "type": "text",
+            "align": "center",
+            "dx": 5,
+            "dy": -10,
+            "fontSize": 13,
+            "color": "black"
+          },
+          "encoding": {
+            "x": {"field": "Year", "type": "ordinal"},
+            "y": {"field": "textY", "type": "quantitative"},
+            "text": {"field": "label"}
+          }
+        },
+        {
+          "data": {
+            "values": [
+              {"Year": "2019", "AustralianFighters": 13.5, "textY": 17}
+            ]
+          },
+          "mark": {"type": "rule", "color": "black", "strokeWidth": 1.5},
+          "encoding": {
+            "x": {"field": "Year", "type": "ordinal"},
+            "y": {"field": "textY", "type": "quantitative"},
+            "y2": {"field": "AustralianFighters", "type": "quantitative"}
+          }
+        }
+      ]
+    },
+    {
+      "data": {
+        "values": [
+          {"Year": "2021", "AustralianFighters": 10, "label": "End of Covid"}
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "dx": 5,
+        "dy": -10,
+        "fontSize": 13,
+        "color": "black"
+      },
+      "encoding": {
+        "x": {"field": "Year", "type": "ordinal"},
+        "y": {"field": "AustralianFighters", "type": "quantitative"},
+        "text": {"field": "label"}
+      }
+    }
+  ],
+  "params": [
+    {
+      "name": "selected_fighter",
+      "value": "",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Select Fighter",
+          "Alex Chambers",
+          "Alex Torres",
+          "Alexander Volkanovski",
+          "Ange Loosa",
+          "Anthony Perosh",
+          "Ashkan Mokhtarian",
+          "Bassil Hafez",
+          "Bec Rawlings",
+          "Ben Nguyen",
+          "Ben Sosoli",
+          "Ben Wall",
+          "Benny Alloway",
+          "Brendan O'Reilly",
+          "Callan Potter",
+          "Chris Indich",
+          "Cody Haddon",
+          "Colby Thicknesse",
+          "Damien Brown",
+          "Daniel Kelly",
+          "Darrius Flowers",
+          "Dylan Andrews",
+          "George Sotiropoulos",
+          "Harry Hunsucker",
+          "Jack Della Maddalena",
+          "Jack Jenkins",
+          "Jacob Malkoun",
+          "Jake Matthews",
+          "James Te Huna",
+          "Jamie Mullarkey",
+          "Jessica-Rose Clark",
+          "Jim Crute",
+          "Jimmy Crute",
+          "Jonathan Micallef",
+          "Josh Culibao",
+          "Joshua Culibao",
+          "Junior Tafa",
+          "Justin Tafa",
+          "Kaan Ofli",
+          "Manuel Rodriguez",
+          "Mark Hunt",
+          "Nadia Kassem",
+          "Quillan Salkilld",
+          "Richard Walsh",
+          "Richie Vaculik",
+          "Rob Wilkinson",
+          "Robert Whittaker",
+          "Rostem Akman",
+          "Sean Sharaf",
+          "Shannon Ross",
+          "Soa Palelei",
+          "Steve Erceg",
+          "Steve Kennedy",
+          "Stewart Nicoll",
+          "Suman Mokhtarian",
+          "Tai Tuivasa",
+          "Tallison Teixeira",
+          "Tom Nolan",
+          "Tyson Pedro",
+          "Vik Grujic",
+          "Will Chope"
+        ],
+        "name": "Search Fighter: "
+      }
+    }
+  ],
+  "config": {}
+}
