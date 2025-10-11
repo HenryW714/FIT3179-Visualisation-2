@@ -1,5 +1,4 @@
 RedFighter,RedNationality,BlueFighter,BlueNationality,Date,Location,Country,Winner,TitleBout,WeightClass,WinnerNationality,Loser,LoserNationality
-Navajo Stirling,New Zealand,Tuco Tokkos,Australia,2024-12-14,"Tampa, Florida, USA",USA,Red,False,Light Heavyweight,New Zealand,Tuco Tokkos,Australia
 Bassil Hafez,Australia,Oban Elliott,United Kingdom,2024-11-16,"New York City, New York, USA",USA,Blue,False,Welterweight,United Kingdom,Bassil Hafez,Australia
 Robert Whittaker,Australia,Khamzat Chimaev,United Arab Emirates,2024-10-26,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Blue,False,Middleweight,United Arab Emirates,Robert Whittaker,Australia
 Junior Tafa,Australia,Sean Sharaf,Australia,2024-10-12,"Las Vegas, Nevada, USA",USA,Red,False,Heavyweight,Australia,Sean Sharaf,Australia
@@ -19,7 +18,6 @@ Robert Whittaker,Australia,Ikram Aliskerov,Russia,2024-06-22,"Riyadh, Riyadh, Sa
 Phil Rowe,United States of America,Jake Matthews,Australia,2024-06-01,"Newark, New Jersey, USA",USA,Blue,False,Welterweight,Australia,Phil Rowe,United States of America
 Mickey Gall,United States of America,Bassil Hafez,Australia,2024-06-01,"Newark, New Jersey, USA",USA,Blue,False,Welterweight,Australia,Mickey Gall,United States of America
 Victor Martinez,United States of America,Tom Nolan,Australia,2024-05-18,"Las Vegas, Nevada, USA",USA,Blue,False,Lightweight,Australia,Victor Martinez,United States of America
-Oumar Sy,France,Tuco Tokkos,Australia,2024-05-18,"Las Vegas, Nevada, USA",USA,Red,False,Light Heavyweight,France,Tuco Tokkos,Australia
 Alexandre Pantoja,Brazil,Steve Erceg,Australia,2024-05-04,"Rio de Janeiro, Rio de Janeiro, Brazil",Brazil,Red,True,Flyweight,Brazil,Steve Erceg,Australia
 Mauricio Ruffy,Brazil,Jamie Mullarkey,Australia,2024-05-04,"Rio de Janeiro, Rio de Janeiro, Brazil",Brazil,Red,False,Lightweight,Brazil,Jamie Mullarkey,Australia
 Andre Petroski,United States of America,Jacob Malkoun,Australia,2024-03-30,"Atlantic City, New Jersey, USA",USA,Blue,False,Middleweight,Australia,Andre Petroski,United States of America
@@ -192,7 +190,7 @@ Tecia Torres,United States of America,Bec Rawlings,Australia,2017-02-04,"Houston
 Dong Hyun Ma,South Korea,Brendan O'Reilly,Australia,2016-12-03,"Las Vegas, Nevada, USA", USA,Red,False,Lightweight,South Korea,Brendan O'Reilly,Australia
 Robert Whittaker,Australia,Derek Brunson,United States of America,2016-11-26,"Melbourne, Victoria, Australia", Australia,Red,False,Middleweight,Australia,Derek Brunson,United States of America
 Jake Matthews,Australia,Andrew Holbrook,United States of America,2016-11-26,"Melbourne, Victoria, Australia", Australia,Blue,False,Lightweight,United States of America,Jake Matthews,Australia
-Yusuke Kasuya,Australia,Alexander Volkanovski,Australia,2016-11-26,"Melbourne, Victoria, Australia", Australia,Blue,False,Lightweight,Australia,Yusuke Kasuya,Australia
+Yusuke Kasuya,Japan,Alexander Volkanovski,Australia,2016-11-26,"Melbourne, Victoria, Australia", Australia,Blue,False,Lightweight,Australia,Yusuke Kasuya,Japan
 Khalil Rountree Jr.,United States of America,Tyson Pedro,Australia,2016-11-26,"Melbourne, Victoria, Australia", Australia,Blue,False,Light Heavyweight,Australia,Khalil Rountree Jr.,United States of America
 Daniel Kelly,Australia,Chris Camozzi,United States of America,2016-11-26,"Melbourne, Victoria, Australia", Australia,Red,False,Middleweight,Australia,Chris Camozzi,United States of America
 Damien Brown,Australia,Jon Tuck,Guam,2016-11-26,"Melbourne, Victoria, Australia", Australia,Red,False,Lightweight,Australia,Jon Tuck,Guam
@@ -219,7 +217,7 @@ Richie Vaculik,Australia,Danny Martinez,United States of America,2015-11-14,"Mel
 Daniel Kelly,Australia,Steve Montgomery,United States of America,2015-11-14,"Melbourne, Victoria, Australia", Australia,Red,False,Middleweight,Australia,Steve Montgomery,United States of America
 Richard Walsh,Australia,Steve Kennedy,Australia,2015-11-14,"Melbourne, Victoria, Australia", Australia,Red,False,Welterweight,Australia,Steve Kennedy,Australia
 Ben Nguyen,Australia,Ryan Benoit,United States of America,2015-11-14,"Melbourne, Victoria, Australia", Australia,Red,False,Flyweight,Australia,Ryan Benoit,United States of America
-Nick Hein,Germany,Yusuke Kasuya,Australia,2015-09-26,"Saitama, Japan", Japan,Red,False,Lightweight,Germany,Yusuke Kasuya,Australia
+Nick Hein,Germany,Yusuke Kasuya,Japan,2015-09-26,"Saitama, Japan", Japan,Red,False,Lightweight,Germany,Yusuke Kasuya,Japan
 Paige VanZant,United States of America,Alex Chambers,Australia,2015-09-05,"Las Vegas, Nevada, USA", USA,Red,False,Women's Strawweight,United States of America,Alex Chambers,Australia
 Antonio Silva,Brazil,Soa Palelei,Australia,2015-08-01,"Rio de Janeiro, Rio de Janeiro, Brazil", Brazil,Red,False,Heavyweight,Brazil,Soa Palelei,Australia
 Peter Sobotta,Germany,Steve Kennedy,Australia,2015-06-20,"Berlin, Berlin, Germany", Germany,Red,False,Welterweight,Germany,Steve Kennedy,Australia
@@ -313,7 +311,7 @@ Brandon Moreno,Mexico,Steve Erceg,Australia,2025-03-30,"Mexico City, Distrito Fe
 Alexander Volkanovski,Australia,Diego Lopes,Mexico,2025-04-13,"Miami, Florida, USA",USA,Alexander Volkanovski,True,Featherweight,Australian,Diego Lopes,Mexico
 Jack Della Maddalena,Australian,Belal Muhammad,United States of America,2025-05-11,"Montreal, Quebec, Canada",Canada,Jack Della Maddalena,True,Welterweight,Australian,Belal Muhammad,United States of America
 Quillan Salkilld,Australia,Yanal Ashmouz,Israel,2025-06-08,"Newark, New Jersey, USA",USA,Quillan Salkilld,False,Lightweight,Australia,Yanal Ashmouz,Israel
-Junior Tafa,Australia,Tuco Tokkos,Australia,2025-07-13,"Nashvile, Tennessee, USA",USA,Tuco Tokkos,False,Light Heavyweight,Australia,Junior Tafa,Australia
+Junior Tafa,Australia,Tuco Tokkos,United Kingdom,2025-07-13,"Nashvile, Tennessee, USA",USA,Tuco Tokkos,False,Light Heavyweight,United Kingdom,Junior Tafa,Australia
 Jake Matthews,Australia,Chidi Njokuani,United States of America,2025-07-13,"Nashvile, Tennessee, USA",USA,Jake Matthews,False,Welterweight,Australia,Chidi Njokuani,United States of America
 Jimmy Crute,Australian,Marcin Prachnio,Netherlands,2025-07-20,"New Orleans, Louisiana, USA",USA,Jimmy Crute,False,Light Heavyweight,Australian,Marcin Prachnio,Netherlands
 Robert Whittaker,Australia,Reinier de Ridder,Netherlands,2025-07-27,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,Reinier de Ridder,False,Middleweight,Netherlands,Robert Whittaker,Australia
