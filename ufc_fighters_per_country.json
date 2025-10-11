@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Number of UFC Fighters by Country (0/No Data in Grey)",
+  "title": "Number of UFC Fighters by Country",
   "width": 800,
   "height": 400,
   "projection": {"type": "equalEarth"},
