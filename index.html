@@ -2,19 +2,22 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Vega-Lite Chart</title>
+  <title>My Vega-Lite Charts</title>
   <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 </head>
 <body>
-  <h1>Australian UFC Fighters Map Visualisation</h1>
-  <div id="vis"></div>
+  <h1>The UFC (2010-2025)</h1>
+
+  <div id="vis1"></div>
+  <div id="vis2"></div>
+  <div id="vis3"></div>
 
   <script>
-    vegaEmbed('#vis', "Australian UFC Win Pct per Country.json").then(function(result) {
-      // Access the Vega view instance as result.view
-    }).catch(console.error);
+    vegaEmbed('#vis1', "ufc_fighters_per_country.json").catch(console.error);
+    vegaEmbed('#vis2', "UFC_Champions_by_Country.json").catch(console.error);
+    vegaEmbed('#vis3', "Australians_In_UFC_Timeline.json").catch(console.error);
   </script>
 </body>
 </html>
