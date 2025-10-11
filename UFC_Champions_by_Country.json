@@ -1,0 +1,93 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "UFC champions and title wins by country",
+  "width": 800,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/HenryW714/FIT3179-Visualisation-2/refs/heads/main/Data/UFC_Champs_PerCountry.csv"
+  },
+  "params": [
+    {
+      "name": "showUS",
+      "value": false,
+      "bind": {"input": "checkbox", "name": "Include the United States?"}
+    },
+    {
+      "name": "countryFilter",
+      "value": "",
+      "bind": {
+        "input": "select",
+        "options": [
+          "",
+          "United States of America",
+          "Brazil",
+          "Russia",
+          "Poland",
+          "Kyrgyzstan",
+          "New Zealand",
+          "United Kingdom",
+          "Australia",
+          "Nigeria",
+          "China",
+          "Mexico",
+          "Ireland",
+          "Canada",
+          "Cameroon",
+          "South Africa",
+          "Spain",
+          "Czech Republic",
+          "France",
+          "Georgia",
+          "United Arab Emirates"
+        ],
+        "labels": [
+          "All countries",
+          "United States of America",
+          "Brazil",
+          "Russia",
+          "Poland",
+          "Kyrgyzstan",
+          "New Zealand",
+          "United Kingdom",
+          "Australia",
+          "Nigeria",
+          "China",
+          "Mexico",
+          "Ireland",
+          "Canada",
+          "Cameroon",
+          "South Africa",
+          "Spain",
+          "Czech Republic",
+          "France",
+          "Georgia",
+          "United Arab Emirates"
+        ],
+        "name": "Show specific country"
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "(datum.Country != 'United States of America' || showUS) && (countryFilter == '' || datum.Country == countryFilter)"
+    },
+    {"fold": ["NumChampions", "NumTitleWins"], "as": ["Type", "Count"]}
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "Country", "type": "ordinal", "axis": {"labelAngle": -45}},
+    "xOffset": {"field": "Type"},
+    "y": {"field": "Count", "type": "quantitative"},
+    "color": {
+      "field": "Type",
+      "type": "nominal",
+      "legend": {"title": "Metric"}
+    },
+    "tooltip": [
+      {"field": "Country", "type": "ordinal"},
+      {"field": "Type", "type": "nominal"},
+      {"field": "Count", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}
