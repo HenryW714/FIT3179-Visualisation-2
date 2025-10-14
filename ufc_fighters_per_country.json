@@ -24,7 +24,10 @@
       "as": "Fighters_filled"
     }
   ],
-  "mark": {"type": "geoshape"},
+  "mark": {"type": "geoshape",
+          "stroke": "black",
+          "strokeWidth": 0.5
+          },
   "encoding": {
     "color": {
       "field": "Fighters_filled",

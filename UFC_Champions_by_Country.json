@@ -11,10 +11,66 @@
       "name": "showUS",
       "value": false,
       "bind": {"input": "checkbox", "name": "Include the United States?"}
+    },
+    {
+      "name": "countryFilter",
+      "value": "",
+      "bind": {
+        "input": "select",
+        "options": [
+          "",
+          "United States of America",
+          "Brazil",
+          "Russia",
+          "Poland",
+          "Kyrgyzstan",
+          "New Zealand",
+          "United Kingdom",
+          "Australia",
+          "Nigeria",
+          "China",
+          "Mexico",
+          "Ireland",
+          "Canada",
+          "Cameroon",
+          "South Africa",
+          "Spain",
+          "Czech Republic",
+          "France",
+          "Georgia",
+          "United Arab Emirates"
+        ],
+        "labels": [
+          "All countries",
+          "United States of America",
+          "Brazil",
+          "Russia",
+          "Poland",
+          "Kyrgyzstan",
+          "New Zealand",
+          "United Kingdom",
+          "Australia",
+          "Nigeria",
+          "China",
+          "Mexico",
+          "Ireland",
+          "Canada",
+          "Cameroon",
+          "South Africa",
+          "Spain",
+          "Czech Republic",
+          "France",
+          "Georgia",
+          "United Arab Emirates"
+        ],
+        "name": "Show specific country"
+      }
     }
   ],
   "transform": [
-    {"filter": "datum.Country != 'United States of America' || showUS"},
+    {
+      "filter": "(datum.Country != 'United States of America' || showUS) && (countryFilter == '' || datum.Country == countryFilter)"
+    },
     {"fold": ["NumChampions", "NumTitleWins"], "as": ["Type", "Count"]}
   ],
   "mark": "bar",
