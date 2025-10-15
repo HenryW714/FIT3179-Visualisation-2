@@ -1,0 +1,95 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "title": "Significant Strikes vs Takedowns for UFC Champions",
+  "width": 800,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/HenryW714/FIT3179-Visualisation-2/refs/heads/main/Data/ufc_champs_stats.csv"
+  },
+  "params": [
+    {
+      "name": "countryFilter",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "options": [
+          "All",
+          "United States of America",
+          "Brazil",
+          "Russia",
+          "Poland",
+          "United Kingdom",
+          "Australia",
+          "Mexico"
+        ],
+        "labels": [
+          "Show All",
+          "USA",
+          "Brazil",
+          "Russia",
+          "Poland",
+          "UK",
+          "Australia",
+          "Mexico"
+        ],
+        "name": "Select Country: "
+      },
+      "empty": "all"
+    }
+  ],
+  "transform": [
+    {"filter": "countryFilter == 'All' || datum.Nationality == countryFilter"}
+  ],
+  "mark": "circle",
+  "encoding": {
+    "x": {
+      "field": "AvgSigStrLanded",
+      "type": "quantitative",
+      "title": "Avg Significant Strikes Landed"
+    },
+    "y": {
+      "field": "AvgTDLanded",
+      "type": "quantitative",
+      "title": "Avg Takedowns Landed"
+    },
+    "size": {
+      "field": "WinPct",
+      "type": "quantitative",
+      "scale": {"range": [100, 1200], "type": "log"},
+      "title": "Win %"
+    },
+    "color": {
+      "field": "Nationality",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "United States of America",
+          "Brazil",
+          "Russia",
+          "Poland",
+          "United Kingdom",
+          "Australia",
+          "Mexico"
+        ],
+        "range": [
+          "#0047AB",
+          "#43A047",
+          "#D32F2F",
+          "#8B008B",
+          "#e78ac3",
+          "#F1C40F",
+          "#1ABC9C"
+        ]
+      },
+      "title": "Country"
+    },
+    "tooltip": [
+      {"field": "Fighter", "type": "nominal"},
+      {"field": "Nationality", "type": "nominal"},
+      {"field": "AvgSigStrLanded", "type": "quantitative"},
+      {"field": "AvgTDLanded", "type": "quantitative"},
+      {"field": "WinPct", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}
