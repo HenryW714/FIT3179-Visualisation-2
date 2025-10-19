@@ -1,0 +1,162 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v6.json",
+  "title": {
+    "text": "Volkanovski vs Makhachev Comparison",
+    "anchor": "start",
+    "fontSize": 18,
+    "dy": -20
+  },
+  "width": 500,
+  "height": 200,
+  "signals": [{"name": "radius", "update": "width / 3"}],
+  "data": [
+    {
+      "name": "table",
+      "url": "https://raw.githubusercontent.com/HenryW714/FIT3179-Visualisation-2/refs/heads/main/Data/volk_vs_islam_normalized.csv",
+      "format": {"type": "csv", "delimiter": ","}
+    },
+    {
+      "name": "metrics",
+      "source": "table",
+      "transform": [{"type": "aggregate", "groupby": ["Metric"]}]
+    }
+  ],
+  "scales": [
+    {
+      "name": "angular",
+      "type": "point",
+      "range": {"signal": "[-PI, PI - (2 * PI / length(data('metrics')))]"},
+      "domain": {"data": "metrics", "field": "Metric"}
+    },
+    {
+      "name": "radial",
+      "type": "linear",
+      "domain": [0, 1],
+      "range": {"signal": "[0, radius]"}
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {"data": "table", "field": "Fighter"},
+      "range": ["#2ca02c", "#1f77b4"]
+    }
+  ],
+  "marks": [
+    {
+      "type": "group",
+      "from": {
+        "facet": {"name": "facet", "data": "table", "groupby": ["Fighter"]}
+      },
+      "marks": [
+        {
+          "type": "line",
+          "from": {"data": "facet"},
+          "encode": {
+            "enter": {
+              "interpolate": {"value": "linear-closed"},
+              "x": {
+                "signal": "scale('radial', datum.ValueNorm) * cos(scale('angular', datum.Metric))"
+              },
+              "y": {
+                "signal": "scale('radial', datum.ValueNorm) * sin(scale('angular', datum.Metric))"
+              },
+              "stroke": {"scale": "color", "field": "Fighter"},
+              "strokeWidth": {"value": 2},
+              "fill": {"scale": "color", "field": "Fighter"},
+              "fillOpacity": {"value": 0.15}
+            }
+          }
+        },
+        {
+          "type": "symbol",
+          "from": {"data": "facet"},
+          "encode": {
+            "enter": {
+              "x": {
+                "signal": "scale('radial', datum.ValueNorm) * cos(scale('angular', datum.Metric))"
+              },
+              "y": {
+                "signal": "scale('radial', datum.ValueNorm) * sin(scale('angular', datum.Metric))"
+              },
+              "size": {"value": 150},
+              "fill": {"scale": "color", "field": "Fighter"},
+              "stroke": {"value": "white"},
+              "strokeWidth": {"value": 1.2},
+              "tooltip": {
+                "signal": "{'Fighter': datum.Fighter, 'Metric': datum.Metric, 'Value': datum.Value}"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "rule",
+      "from": {"data": "metrics"},
+      "encode": {
+        "enter": {
+          "x": {"value": 0},
+          "y": {"value": 0},
+          "x2": {"signal": "radius * cos(scale('angular', datum.Metric))"},
+          "y2": {"signal": "radius * sin(scale('angular', datum.Metric))"},
+          "stroke": {"value": "#ddd"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {"data": "metrics"},
+      "encode": {
+        "enter": {
+          "text": {"field": "Metric"},
+          "x": {
+            "signal": "(radius + 15) * cos(scale('angular', datum.Metric))"
+          },
+          "y": {
+            "signal": "(radius + 15) * sin(scale('angular', datum.Metric))"
+          },
+          "align": {
+            "signal": "if(cos(scale('angular', datum.Metric)) > 0, 'left', 'right')"
+          },
+          "baseline": {
+            "signal": "if(sin(scale('angular', datum.Metric)) > 0, 'bottom', 'top')"
+          },
+          "fontSize": {"value": 12}
+        }
+      }
+    },
+    {
+      "type": "line",
+      "from": {"data": "metrics"},
+      "encode": {
+        "enter": {
+          "interpolate": {"value": "linear-closed"},
+          "x": {"signal": "radius * cos(scale('angular', datum.Metric))"},
+          "y": {"signal": "radius * sin(scale('angular', datum.Metric))"},
+          "stroke": {"value": "#ccc"}
+        }
+      }
+    },
+    {
+      "type": "symbol",
+      "from": {"data": "table"},
+      "encode": {
+        "enter": {
+          "x": {"value": 0},
+          "y": {"value": 0},
+          "size": {"value": 0},
+          "fill": {"scale": "color", "field": "Fighter"}
+        }
+      }
+    }
+  ],
+  "legends": [
+    {
+      "fill": "color",
+      "title": "Fighter",
+      "orient": "bottom-right",
+      "encode": {"symbols": {"update": {"strokeWidth": {"value": 1.5}}}}
+    }
+  ],
+  "config": {}
+}

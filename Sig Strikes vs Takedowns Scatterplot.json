@@ -86,9 +86,9 @@
     "tooltip": [
       {"field": "Fighter", "type": "nominal"},
       {"field": "Nationality", "type": "nominal"},
-      {"field": "AvgSigStrLanded", "type": "quantitative"},
-      {"field": "AvgTDLanded", "type": "quantitative"},
-      {"field": "WinPct", "type": "quantitative"}
+      {"field": "Average Significant Strikes Landed", "type": "quantitative"},
+      {"field": "Average Takedowns Landed", "type": "quantitative"},
+      {"field": "Win Percentage", "type": "quantitative"}
     ]
   },
   "config": {}

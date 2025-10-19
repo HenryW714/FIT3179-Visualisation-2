@@ -2,58 +2,135 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Vega-Lite Charts</title>
+  <title>UFC Dashboard (2010-2025)</title>
   <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
-    body{
-      background-color: lightgray;
-    }
-    h1{
-      display: flex; 
-      justify-content: center; 
-      align-items: center;
-      font-weight: 100px;
-      font-family: 'Anton', sans-serif;
-      background-color: black;
-      color: whitesmoke;
-      padding: 30px;
-    }
-    .introduction{
-      font-size: 18px;
+    body {
+      background-color: #f0f0f0;
       font-family: 'Poppins', sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #333;
+      line-height: 1.6;
     }
 
-  #vis1{
-    background-color: lightgray;
-    padding-bottom: 30px;
-  }
-  #vis2{
-    padding-bottom: 30px;
-  }
-  #vis3{
-    padding-bottom: 30px;
-  }
+    header {
+      text-align: center;
+      background-color: #000;
+      color: #fff;
+      padding: 40px 20px;
+    }
+
+    header h1 {
+      font-family: 'Anton', sans-serif;
+      font-size: 2rem;
+      margin: 0;
+    }
+
+    section {
+      max-width: 1200px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    h2 {
+      font-family: 'Anton', sans-serif;
+      font-size: 2rem;
+      color: #006400;
+      background-color: #d4af37;
+      text-align: center;
+      padding: 10px 20px;
+      margin-bottom: 20px;
+    }
+
+    p.introduction {
+      font-size: 1.2rem;
+      margin-bottom: 30px;
+    }
+
+    p.analysis {
+      font-size: 1.1rem;
+      margin: 20px 0 40px 0;
+    }
+
+    .chart-container {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      margin-bottom: 40px;
+    }
+
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 2rem;
+      }
+
+      h2 {
+        font-size: 1.5rem;
+      }
+
+      p.introduction, p.analysis {
+        font-size: 1rem;
+      }
+    }
   </style>
 </head>
 <body>
-  <h1>The UFC (2010-2025)</h1>
+  <header>
+    <h1>The UFC (2010-2025)</h1>
+  </header>
 
-  <p class="introduction">Since 2010, the UFC has grown into a global phenomenon, attracting widespread popularity 
-  and showcasing athletes from around the world. As the organization has expanded, fighters from all over the world
-  have entered the Octagon. This dashboard takes a deep dive into the Australian athletes competing in the UFC, 
-  exploring their presence and impact over the years. From the map, we can observe the number of fighters each 
-  country has contributed since 2010, revealing that Australia has produced a strong and steadily growing 
-  group of competitors, although it still trails behind powerhouses like Brazil and the United States in overall 
-  representation.
-  </p>
+  <section>
+    <p class="introduction">
+      Since 2010, when the modern era of the UFC began, the organisation has grown into a global phenomenon, attracting widespread popularity 
+      and showcasing athletes from around the world. This dashboard explores Australian athletes competing in the UFC, 
+      their presence, and impact over the years. From the map, we can observe the number of fighters each 
+      country has contributed since 2010, showing Australia's growing but still smaller presence compared to Brazil and the USA.
+    </p>
 
-  <div id="vis1"></div>
-  <div id="vis2"></div>
-  <div id="vis3"></div>
-  <div id="vis4"></div>
-  <div id="vis5"></div>
+    <div class="chart-container" id="vis1"></div>
+
+    <p class="analysis">
+      Australian fighters have not only participated but established themselves as serious competitors, producing 3 champions 
+      and winning 9 title fights, ranking just behind powerhouses like Brazil, Russia, and the United States.
+    </p>
+
+    <div class="chart-container" id="vis2"></div>
+
+    <p class="analysis">
+      The number of Australian UFC fighters has steadily grown from only 2 in 2010 to 27 active fighters in 2025. 
+      Events like The Ultimate Fighter in 2012 and Alexander Volkanovski’s success post-COVID encouraged a surge of talent.
+    </p>
+
+    <div class="chart-container" id="vis3"></div>
+
+    <h2>Aussie Champions</h2>
+
+    <p class="analysis">
+      The heatmap reveals the style of Australian champions: prioritizing technical striking over grappling, 
+      leading to dominant unanimous decisions and knockout victories.
+    </p>
+
+    <div class="chart-container" id="vis4"></div>
+
+    <p class="analysis">
+      The scatterplot shows that UFC champions succeed with diverse styles, balancing striking and grappling. 
+      Australian champions often rely on efficient striking with fewer takedowns, achieving win percentages above 80%.
+    </p>
+
+    <div class="chart-container" id="vis5"></div>
+
+    <p class="analysis">
+      Comparing Australian fighter Alexander Volkanovski (featherweight) and Russian fighter Islam Makhachev (lightweight) highlights contrasting styles. 
+      Makachev focuses on takedowns and submissions, whereas Volkanovski excels in striking, resulting in more knockouts.
+    </p>
+
+    <div class="chart-container" id="vis6"></div>
+  </section>
 
   <script>
     vegaEmbed('#vis1', "ufc_fighters_per_country.json").catch(console.error);
@@ -61,6 +138,7 @@
     vegaEmbed('#vis3', "Australians_In_UFC_Timeline.json").catch(console.error);
     vegaEmbed('#vis4', "Heatmap.json").catch(console.error);
     vegaEmbed('#vis5', "Sig Strikes vs Takedowns Scatterplot.json").catch(console.error);
+    vegaEmbed('#vis6', "radar_chart.json").catch(console.error);
   </script>
 </body>
 </html>

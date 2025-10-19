@@ -71,7 +71,7 @@
     {
       "filter": "(datum.Country != 'United States of America' || showUS) && (countryFilter == '' || datum.Country == countryFilter)"
     },
-    {"fold": ["NumChampions", "NumTitleWins"], "as": ["Type", "Count"]}
+    {"fold": ["Number of Champions", "Number of Title Wins"], "as": ["Type", "Count"]}
   ],
   "mark": "bar",
   "encoding": {
@@ -81,6 +81,10 @@
     "color": {
       "field": "Type",
       "type": "nominal",
+      "scale": {
+        "domain": ["Number of Champions", "Number of Title Wins"],
+        "range": ["#2ca02c", "#1f77b4"]
+      },
       "legend": {"title": "Metric"}
     },
     "tooltip": [
@@ -88,6 +92,5 @@
       {"field": "Type", "type": "nominal"},
       {"field": "Count", "type": "quantitative"}
     ]
-  },
-  "config": {}
+  }
 }
