@@ -38,7 +38,7 @@
       "name": "color",
       "type": "ordinal",
       "domain": {"data": "table", "field": "Fighter"},
-      "range": ["#2ca02c", "#1f77b4"]
+      "range": ["#7BCB78", "#257BAE"]
     }
   ],
   "marks": [
@@ -63,7 +63,7 @@
               "stroke": {"scale": "color", "field": "Fighter"},
               "strokeWidth": {"value": 2},
               "fill": {"scale": "color", "field": "Fighter"},
-              "fillOpacity": {"value": 0.15}
+              "fillOpacity": {"value": 0.4}
             }
           }
         },

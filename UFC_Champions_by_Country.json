@@ -83,7 +83,7 @@
       "type": "nominal",
       "scale": {
         "domain": ["Number of Champions", "Number of Title Wins"],
-        "range": ["#2ca02c", "#1f77b4"]
+        "range": ["#7BCB78", "#257BAE"]
       },
       "legend": {"title": "Metric"}
     },
