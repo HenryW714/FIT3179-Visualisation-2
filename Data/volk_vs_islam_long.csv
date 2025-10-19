@@ -1,17 +1,17 @@
 Fighter,Metric,Value
-Alexander Volkanovski,AvgSigStrLanded,32.39
-Islam Makhachev,AvgSigStrLanded,9.775
-Alexander Volkanovski,AvgSigStrPct,0.588
-Islam Makhachev,AvgSigStrPct,0.566
-Alexander Volkanovski,AvgTDLanded,2.484
-Islam Makhachev,AvgTDLanded,2.914
-Alexander Volkanovski,AvgTDPct,0.49
-Islam Makhachev,AvgTDPct,0.56
-Alexander Volkanovski,AvgSubAtt,0.235
-Islam Makhachev,AvgSubAtt,0.928
-Alexander Volkanovski,WinsByKO,2.75
-Islam Makhachev,WinsByKO,1.0
-Alexander Volkanovski,WinsBySubmission,0.0
-Islam Makhachev,WinsBySubmission,2.875
-Alexander Volkanovski,WinsByDecisionUnanimous,4.062
-Islam Makhachev,WinsByDecisionUnanimous,2.75
+Alexander Volkanovski,Average Significant Strikes Landed,32.39
+Islam Makhachev,Average Significant Strikes Landed,9.775
+Alexander Volkanovski,Average Significant Strikes Percent,0.588
+Islam Makhachev,Average Significant Strikes Percent,0.566
+Alexander Volkanovski,Average Takedowns Landed,2.484
+Islam Makhachev,Average Takedowns Landed,2.914
+Alexander Volkanovski,Average Takedown Percent,0.49
+Islam Makhachev,Average Takedown Percent,0.56
+Alexander Volkanovski,Average Submission Attempts,0.235
+Islam Makhachev,Average Submission Attempts,0.928
+Alexander Volkanovski,Wins By KO,13
+Islam Makhachev,Wins By KO,5
+Alexander Volkanovski,Wins By Submission,3
+Islam Makhachev,Wins By Submission,6
+Alexander Volkanovski,Wins By Unanimous Decision,9
+Islam Makhachev,Wins By Unanimous Decision,5
