@@ -1,6 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Australian Fighters in The UFC Throughout the Years",
+  "title": {
+    "text": "Australian Fighters in the UFC Throughout the Years",
+    "anchor": "middle",
+    "fontSize": 19,
+    "dy": -20
+  },
   "width": 800,
   "height": 400,
   "layer": [

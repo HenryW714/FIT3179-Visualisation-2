@@ -1,6 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "title": "Significant Strikes vs Takedowns for UFC Champions",
+    "title": {
+    "text": "Significant Strikes vs Takedowns for UFC Champions",
+    "anchor": "middle",
+    "fontSize": 19,
+    "dy": -20
+  },
   "width": 800,
   "height": 400,
   "data": {

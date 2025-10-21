@@ -1,6 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "title": "Winning methods of Australian UFC Champions",
+  "title": {
+    "text": "Winning Methods of Australian UFC Champions",
+    "anchor": "middle",
+    "fontSize": 19,
+    "dy": -20
+  },
   "data": {
     "url": "https://raw.githubusercontent.com/HenryW714/FIT3179-Visualisation-2/refs/heads/main/Data/australian_champion_finish_long.csv"
   },

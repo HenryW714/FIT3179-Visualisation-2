@@ -1,6 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Number of UFC Fighters by Country",
+    "title": {
+    "text": "Number of UFC Fighters by Country",
+    "anchor": "middle",
+    "fontSize": 19,
+    "dy": -20
+  },
   "width": 800,
   "height": 400,
   "projection": {"type": "equalEarth"},
@@ -37,7 +42,7 @@
         "test": "datum.Fighters_filled == -1",
         "value": "lightgrey"
       },
-      "legend": {"title": "Number of Fighters (log scale)"}
+      "legend": {"title": "Number of Fighters"}
     },
     "tooltip": [
       {"field": "properties.NAME", "type": "nominal", "title": "Country"},

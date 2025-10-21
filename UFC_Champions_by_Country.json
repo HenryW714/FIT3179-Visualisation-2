@@ -1,6 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "UFC champions and title wins by country",
+    "title": {
+    "text": "UFC Champions and Title Fight Wins by Country",
+    "anchor": "middle",
+    "fontSize": 19,
+    "dy": -20
+  },
   "width": 800,
   "height": 400,
   "data": {

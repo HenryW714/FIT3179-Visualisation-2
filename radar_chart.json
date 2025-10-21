@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega/v6.json",
   "title": {
     "text": "Volkanovski vs Makhachev Comparison",
-    "anchor": "start",
-    "fontSize": 18,
+    "anchor": "middle",
+    "fontSize": 19,
     "dy": -20
   },
   "width": 500,
